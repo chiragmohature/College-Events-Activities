@@ -1,0 +1,2815 @@
+<!DOCTYPE html>
+<!-- saved from url=(0032)https://www.tgpcet.com/index.php -->
+<html lang="en" class="js flexbox canvas canvastext webgl no-touch geolocation postmessage no-websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers no-applicationcache svg inlinesvg smil svgclippaths"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <!-- ========== Meta Tags ========== -->
+    
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="keywords" content="Best Engineering college in Nagpur, Nagpur, TGPCET, Nagpur Tulsiramji Gaikwad-Patil College of Engineering &amp; Technology, Tulsiramji Gaikwad-Patil College of Engineering &amp; Technology Maharashtra, TGPCET Nagpur, TGPCET College, Institute in Nagpur, Top Engineering College, M.Tech MCA MBA College in Nagpur, Polytechnic Diploma College in Nagpur, Maharashtra, India">
+
+<meta name="description" content=" Tulsiramji Gaikwad-Patil College of Engineering and Technology (TGPCET) was established in 2007 by Vidarbha Bahu-uddeshiya Shikshan Sanstha (VBSS), a registered society. The College is accredited by NAAC with A+ grade.">
+
+<meta property="og:url" content="http://www.tgpcet.com/"> 
+<meta property="og:image" content=" http://www.tgpcet.com/images/logo.png"> 
+<meta property="og:type" content="website"> 
+<meta property="og:site_name" content="TGPCET"> 
+<meta property="og:locale" content="en-IN"> 
+<meta property="og:title" content="TGPCET"> 
+<meta property="og:description" content="Welcome to TGPCET"> 
+<meta property="og:country-name" content="in"> 
+<meta itemprop="name" content="TGPCET"> 
+<meta itemprop="image" content="http://www.tgpcet.com/assets/img/logo.png"> 
+<meta itemprop="url" content="http://www.tgpcet.com/"> 
+<meta itemprop="description" content=" TGPCET develops the attitude towards equality, fraternity, liberty, justice and respect for all sections of society. TGPCET grows students in the domain of latest scientific and technological areas by introducing ATMEL, USA, ROBOTICS and embedded programs for enhancing inter disciplinary research fields."> 
+<meta itemprop="keywords" content="Diploma, BE, M.Tech, MCA, MBA "> 
+
+<meta name="robots" content="index, all">
+<meta name="msnbot" content="index, follow">
+<meta name="googlebot" content="index, follow">
+<meta name="allow-search" content="yes">
+<meta name="revisit-after" content="2 days">
+<meta name="rating" content="excellent!">
+<meta name="language" content="en">
+<meta name="distribution" content="Global">
+
+    <!-- ========== Page Title ========== -->
+    <title> TGPCET - Tulsiramji Gaikwad-Patil College of Engineering &amp; Technology</title>
+
+    <!-- ========== Favicon Icon ========== -->
+    <link rel="shortcut icon" href="https://www.tgpcet.com/assets/img/favicon.png" type="image/x-icon">
+
+    <!-- ========== Start Stylesheet ========== -->
+    <link href="./TGPCET_files/bootstrap.min.css" rel="stylesheet">
+    <link href="./TGPCET_files/font-awesome.min.css" rel="stylesheet">
+    <link href="./TGPCET_files/flaticon-set.css" rel="stylesheet">
+    <link href="./TGPCET_files/themify-icons.css" rel="stylesheet">
+    <link href="./TGPCET_files/magnific-popup.css" rel="stylesheet">
+    <link href="./TGPCET_files/owl.carousel.min.css" rel="stylesheet">
+    <link href="./TGPCET_files/owl.theme.default.min.css" rel="stylesheet">
+    <link href="./TGPCET_files/animate.css" rel="stylesheet">
+    <link href="./TGPCET_files/bootsnav.css" rel="stylesheet">
+    <link href="./TGPCET_files/style.css" rel="stylesheet">
+    <link href="./TGPCET_files/responsive.css" rel="stylesheet">
+    <!-- ========== End Stylesheet ========== -->
+
+    <!-- ========== Google Fonts ========== -->
+    <link href="./TGPCET_files/css" rel="stylesheet">
+    <link href="./TGPCET_files/css(1)" rel="stylesheet">
+	
+	<!-- Google tag (gtag.js) -->
+<script async="" src="./TGPCET_files/js"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-19KRV688K5');
+</script>
+    <link rel="stylesheet" type="text/css" href="./TGPCET_files/jquery.fancybox.css" media="screen"> 
+<style type="text/css">.fancybox-margin{margin-right:17px;}</style></head>
+
+<body><div class="wrapper">
+
+    <!-- Preloader Start -->
+    <!--<div class="se-pre-con"></div> -->
+    <!-- Preloader Ends -->
+	
+	
+	
+	
+
+    <!-- Start Header Top 
+    ============================================= -->
+		<div class="top-bar-area bg-dark text-light sticky">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-md-6 logo-box">
+                    <div class="logo bg-less">
+                        <a href="https://www.tgpcet.com/index.php"><img src="./TGPCET_files/logo-light.png" alt="logo"></a>
+                    </div>
+                </div>
+                <div class="col-md-6 address-info text-right">
+                    <div class="info">
+                        <ul>
+                            <li>
+                                <a href="tel:9922966176"><i class="fas fa-phone"></i> Admission Enquiry: <strong>+91 - 9922966176 </strong> </a>
+                            </li>
+                            <li>
+                                <a href="https://www.facebook.com/tgpcet.nagpur" target="_blank"> <i class="fab fa-facebook-f "></i> </a>
+								<a href="https://www.instagram.com/tgpcet_ngp/" target="_blank"> <i class="fab fa-instagram"></i> </a>
+								<!--<a href="https://twitter.com/GPGI_nagpur" target="_blank"> <i class="fab fa-twitter"></i> </a>
+								<a href="https://www.youtube.com/channel/UCiPfnduZeIwPODxYYbMe65g" target="_blank"> <i class="fab fa-youtube"></i>--> 
+                            </li>
+							 <!--<li>
+                                 <a href="http://www.erp.tgpcet.com" target="_blank" class="btn btn-warning text-white btn-sm"> PAY ONLINE FEES  </a> 
+                            </li>  -->
+							 <li>
+                                 <a href="https://forms.gle/vpWeeXm2bcNFqA1b7" target="_blank" class="btn btn-primary text-white btn-sm"> Admission Open 2024-25  </a> 
+                            </li>  
+
+                        </ul>
+
+                    </div>
+                </div>
+                
+            </div>
+        </div>
+    </div> 
+    <!-- End Header Top -->
+
+    <!-- Header 
+    ============================================= -->
+		<header id="home">
+        <!-- Start Navigation -->
+        <div class="wrap-sticky" style="height: 80px;"><nav class="navbar navbar-default fixed-shaodow-none logo-less small-pad navbar-sticky bootsnav on no-full sticked">
+
+            <!-- Start Top Search -->
+            <div class="container">
+                <div class="row">
+                    <div class="top-search">
+                        <div class="input-group">
+                            <form action="https://www.tgpcet.com/index.php#">
+                                <input type="text" name="text" class="form-control" placeholder="Search">
+                                <button type="submit">
+                                    <i class="fas fa-search"></i>
+                                </button>  
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- End Top Search -->
+
+            <div class="container-fluid">
+
+                <!-- Start Atribute Navigation -->
+                <!--<div class="attr-nav inc-btn">
+                    <ul>
+                       li>
+                            <a href="#">Register</a>
+                        </li>
+                        <li>
+                            <a href="#" class="btn btn-dark text-white"> Admission Open 2021-22  </a>
+                        </li> 
+                    </ul>
+                </div> -->       
+                <!-- End Atribute Navigation -->
+
+                <!-- Start Header Navigation -->
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-menu">
+                        <i class="fa fa-bars"></i>
+                    </button>
+                    <a class="navbar-brand" href="https://www.tgpcet.com/index.php">
+                        <img src="./TGPCET_files/logo.png" width="380px" class="logo" alt="Logo">
+                    </a>
+                </div>
+                <!-- End Header Navigation -->
+
+                <!-- Collect the nav links, forms, and other content for toggling -->
+                <div class="collapse navbar-collapse" id="navbar-menu">
+                    <ul class="nav navbar-nav navbar-left" data-in="#" data-out="#">
+                        <li class="dropdown">
+                            <a href="https://www.tgpcet.com/index.php" class="dropdown-toggle" data-toggle="dropdown">Home</a>
+                            <ul class="dropdown-menu animated #">
+                                <li><a href="https://www.tgpcet.com/about-us.php">About us</a></li>
+                                <li><a href="https://www.tgpcet.com/management.php">Management</a></li>
+                                <li><a href="https://www.tgpcet.com/principal-msg.php">Principal Message</a></li>
+								<li><a href="https://www.tgpcet.com/Vice-principal-msg.php">Vice Principal Message</a></li>
+								<!--<li><a href="Director-IIIL.php">Director IIIL</a></li>-->
+								<li><a href="https://www.tgpcet.com/vision-mission.php">Vision &amp; Mission</a></li>
+                                <li><a href="https://www.tgpcet.com/Core-Values.php"> Core Values </a></li>
+								<li><a href="https://www.tgpcet.com/Administration.php"> Administration </a></li>
+								<li><a href="https://www.tgpcet.com/Governing_Body.php"> Governing Body </a></li>
+								<li><a href="https://www.tgpcet.com/Academic_Council.php"> Academic Council </a></li>
+								<li><a href="https://www.tgpcet.com/CDC.php"> College Develpment Committee </a></li>
+								<li><a href="https://www.tgpcet.com/assets/Governance_&amp;_Organization/Governance_&amp;_Organization.pdf"> Governance &amp; Organization Chart </a></li>
+                            </ul>
+                        </li>
+                        
+						<li class="dropdown">
+                            <a href="https://www.tgpcet.com/index.php#" class="dropdown-toggle" data-toggle="dropdown"> Departments </a>
+                            <ul class="dropdown-menu animated">
+                                <li class="dropdown">
+                                    <a href="https://www.tgpcet.com/index.php#" class="dropdown-toggle" data-toggle="dropdown">UG</a>
+                                    <ul class="dropdown-menu animated">
+										<li><a href="https://www.tgpcet.com/Aeronautical-Engineering.php"> Aeronautical Engineering  </a> </li>
+										<li><a href="https://www.tgpcet.com/BTech-Biotechnology.php"> Biotechnology  </a> </li> 
+										<li><a href="https://www.tgpcet.com/Civil-dept.php"> Civil Engineering </a> </li>										
+										<li><a href="https://www.tgpcet.com/CSE-dept.php"> Computer Science &amp; Engineering</a> </li>																				
+										<li><a href="https://www.tgpcet.com/DATA-SCIENCE-Dept.php"> Computer Science &amp; Engineering (Data Science) </a> </li>
+										<li><a href="https://www.tgpcet.com/Electrical-dept.php"> Electrical Engineering</a> </li>
+										<li><a href="https://www.tgpcet.com/ECE-dept.php"> Electronics and Communication Engineering</a> </li>
+										<li><a href="https://www.tgpcet.com/IT-dept.php"> Information Technology</a> </li>
+                                        <li><a href="https://www.tgpcet.com/Mechanical-dept.php"> Mechanical Engineering</a> </li>  
+                                        <!--<li><a href="Basic-Science-dept.php"> Department of Science & Humanities </a> </li>-->
+                                    </ul>
+                                </li>
+								
+								<li class="dropdown">
+                                    <a href="https://www.tgpcet.com/index.php#" class="dropdown-toggle" data-toggle="dropdown">PG</a>
+                                    <ul class="dropdown-menu animated">
+										<li> <a href="https://www.tgpcet.com/MTech_AE.php"> Aeronautical Engineering(M.Tech) </a> </li>
+										<li> <a href="https://www.tgpcet.com/MTech-AI&amp;ML.php"> Artificial Intelligence &amp; Machine Learning (M.Tech) </a> </li>
+										<li> <a href="https://www.tgpcet.com/MTech_CSE.php"> Computer Science &amp; Engineering (M.Tech) </a> </li>
+                                        <li> <a href="https://www.tgpcet.com/MTech_IPS.php"> Integrated Power System (M.Tech) </a> </li>
+										<li> <a href="https://www.tgpcet.com/Mtech_EVT.php"> Electric Vehicle Technology (M.Tech) </a> </li>
+										<li> <a href="https://www.tgpcet.com/Mtech_ECE.php"> Electronic Communication Engineering(M.Tech) </a> </li>                                        
+										<li> <a href="https://www.tgpcet.com/Mtech_MED.php"> Mechanical Engineering Design (M.Tech) </a> </li>    
+                                        <li> <a href="https://www.tgpcet.com/MTech_Structural_Engineering.php"> Structural Engineering(M.Tech) </a> </li>                                        
+                                        <li><a href="https://www.tgpcet.com/MBA-dept.php"> Master of Business Administration (M.B.A)</a> </li> 
+                                        <li><a href="https://www.tgpcet.com/MCA-dept.php"> Master in Computer Application (M.C.A)</a> </li>
+                                    </ul>
+                                </li>
+								
+								<li class="dropdown">
+                                    <a href="https://www.tgpcet.com/index.php#" class="dropdown-toggle" data-toggle="dropdown">Academic calendar </a>
+                                    <ul class="dropdown-menu animated">
+                                        <li> <a href="https://www.tgpcet.com/assets/Academic-Calender/2023-24/UG_II_IV_VI_Even_Sem_2023-24.pdf" target="_blank"> UG (II / IV / VI) Even Sem 2023-24 </a> </li>
+										<li> <a href="https://www.tgpcet.com/assets/Academic-Calender/2023-24/UG_8th_Sem_2023-24_Even_Semester.pdf" target="_blank"> UG 8<sup>th</sup> Semester (Even Semester) </a> </li>
+										<li> <a href="https://www.tgpcet.com/assets/Academic-Calender/2023-24/UG_I_Sem.pdf" target="_blank"> UG (I Sem) </a> </li>
+										<li> <a href="https://www.tgpcet.com/assets/Academic-Calender/2023-24/UG_III_V_Sem.pdf" target="_blank"> UG (III &amp; V Sem) </a> </li>
+										<li> <a href="https://www.tgpcet.com/assets/Academic-Calender/2023-24/UG_VII_sem.pdf" target="_blank"> UG (VII Sem) </a> </li>
+										<li> <a href="https://www.tgpcet.com/assets/Academic-Calender/2023-24/PG_Sem_I.pdf" target="_blank"> PG (I Sem) </a> </li>
+										<li> <a href="https://www.tgpcet.com/assets/Academic-Calender/2023-24/PG_Sem_III.pdf" target="_blank"> PG (III Sem) </a> </li>
+										
+										<!--<li> <a href="assets/Academic-Calender/Academic_Calendar_2022-23 _BTech_I_&_III_sem.pdf" target="_blank"> B.TECH (I & III SEM) 2022-23 </a> </li>-->
+										<!--<li> <a href="assets/Academic-Calender/PG_I_&_III_SEM_2022-23.pdf" target="_blank"> PG (I & III SEM) 2022-23 </a> </li>
+										<li> <a href="assets/Academic-Calender/Academic-Calendar-2022-23-Even-MTech-MBA-MCA-II-&-IV-Semester.pdf" target="_blank"> PG (II & IV SEM) 2022-23 </a> </li>										
+										<li> <a href="assets/Academic-Calender/Academic Calendar_UG-5th-&-7th-sem.pdf" target="_blank">  UG (V & VII SEM) 2022-23 </a> </li>-->
+										<!--<li> <a href="assets/Academic-Calender/UG-II-Sem-B-Tech-Group-A-B.pdf" target="_blank">  UG (II Semester B. Tech. Group A and B) </a> </li>
+										<li> <a href="assets/Academic-Calender/UG-VI-sem-VIII-sem-PG-IV-sem-21-22-Even-Sem.pdf"  target="_blank">  UG (VI sem and VIII sem) and PG (IV sem) - 2021-2022 (Even Semester) </a> </li>
+										<li> <a href="assets/Academic-Calender/PG_II sem_MCA_MBA_MTech_2021-22.pdf"  target="_blank"> PG (II semester MCA | MBA | M.Tech) 2021-22 </a> </li> -->
+                                    </ul>
+                                </li>
+								
+								<li class="dropdown">
+                                    <a href="https://www.tgpcet.com/index.php#" class="dropdown-toggle" data-toggle="dropdown"> RTMNU CBCS Curriculum </a>
+                                    <ul class="dropdown-menu animated">
+                                        <li> <a href="https://www.tgpcet.com/assets/RTMNU_CBCS_Curriculum/BTECH_CBCS_SYLLABUS.pdf" target="_blank"> B.Tech </a> </li>
+										 <li> <a href="https://www.tgpcet.com/assets/RTMNU_CBCS_Curriculum/MBA_CBCS_Syllabus.pdf" target="_blank"> MBA </a> </li>
+
+                                    </ul>
+                                </li>
+								
+								<li><a href="https://www.tgpcet.com/assets/PDF/Parent-feedback-form.pdf"> Feedback Form </a></li>
+								
+								<!--<li><a href="Computational_Facility.php">  </a> </li> -->
+                                
+                            </ul>
+                        </li>
+						
+                        <li class="dropdown">
+                            <a href="https://www.tgpcet.com/index.php#" class="dropdown-toggle" data-toggle="dropdown">Facilities Offered</a>
+                            <ul class="dropdown-menu animated">
+                                <li><a href="https://www.tgpcet.com/Library.php"> Library </a></li> 
+                                <li><a href="https://www.tgpcet.com/Sports.php"> Sports </a></li>
+                                <li><a href="https://www.tgpcet.com/Canteen.php"> Canteen </a> </li>
+                                <li><a href="https://www.tgpcet.com/Hostel-Facility.php"> Hostel Facility  </a> </li>
+                                <li><a href="https://www.tgpcet.com/Bus-Facility.php"> Bus Facility </a> </li>
+								<li><a href="https://www.tgpcet.com/Computational_Facility.php"> Computational Infrastructure </a> </li>
+                            </ul>
+                        </li>
+						
+						
+                        <li class="dropdown">
+                            <a href="https://www.tgpcet.com/index.php#" class="dropdown-toggle" data-toggle="dropdown"> Student Corner</a>
+                            <ul class="dropdown-menu animated">
+                                <!-- <li><a href="Exam-Bank-Details.php"> Bank Details for Exam Fees </a> </li> -->
+                                <li><a href="https://www.tgpcet.com/Bank-Details.php"> Bank Details </a> </li>
+								
+								<li><a href="https://www.tgpcet.com/Online-Payment.php"> Online Fees Pay  </a></li>
+								<li class="dropdown">
+									<a href="https://www.tgpcet.com/index.php#" class="dropdown-toggle" data-toggle="dropdown">Professional Society Activities</a>
+									<ul class="dropdown-menu animated">										
+										<li><a href="https://www.tgpcet.com/IEI.php"> The Institutions of Engineers(India) [IEI] Students' Chapter  </a></li>
+										<li><a href="https://www.tgpcet.com/ISTE.php"> Indian Society for Technical Education (ISTE) </a></li>
+										<!-- <li><a href="CSI.php"> Computer Society of India (CSI) </a></li> -->
+										<li><a href="https://www.tgpcet.com/IWWA.php"> Indian Water Works Association (IWWA) </a></li>
+										<!--<li><a href="ICI.php"> Indian Concrete Institute (ICI) </a></li>-->
+									</ul>
+								</li>
+								<!--<li><a href="COE.php"> CENTER OF EXCELLENCE </a></li> -->
+								<li><a href="https://www.tgpcet.com/EDC.php"> EDC </a></li>
+                                <li><a href="https://www.tgpcet.com/IIPC.php"> IIPC </a></li>
+								<li><a href="https://www.tgpcet.com/AICTE-SCHOLARSHIP.php"> Scholarship schemes - AICTE </a> </li>
+								<li><a href="https://www.tgpcet.com/NSS.php"> NSS </a> </li>
+                                <li><a href="https://www.tgpcet.com/UBA.php"> UBA </a> </li>
+                                <li><a href="https://www.tgpcet.com/Technical-Training.php"> Technical Training </a> </li>
+								<li><a href="https://www.tgpcet.com/Student_Council.php"> Student Council </a> </li>
+                                <!--<li><a href="SPDP.php"> SPDP </a> </li>-->
+                                <!--<li><a href="Admission-Circular/ADMISSION-CIRCULAR-1.pdf" target="_blank"> Admission Circular - 1 </a> </li>-->
+                               <!-- <li><a href="assets/PDF/EXAM-FORM.pdf" target="_blank"> Exam Form </a> </li>	-->							
+                            </ul>
+                        </li>
+						
+						<li class="dropdown">
+                            <a href="https://www.tgpcet.com/index.php#" class="dropdown-toggle" data-toggle="dropdown"> Admission</a>
+                            <ul class="dropdown-menu animated">
+                                <li><a href="https://www.tgpcet.com/Admission-contact.php"> Admission Contact </a></li>
+                                <li><a href="https://www.tgpcet.com/admission-criteria.php">Admission Criteria</a></li>
+                                <li><a href="https://www.tgpcet.com/Fees-structure.php">Fees Structure</a></li> 
+                                <li><a href="https://www.tgpcet.com/Required-Documents.php"> Required Documents </a></li>
+								<li><a href="https://forms.gle/vpWeeXm2bcNFqA1b7" target="_blank"> Provisional Admission </a></li>
+								<li><a href="https://www.tgpcet.com/assets/Admission_Cell/admission_procedure.pdf" target="_blank"> Admission Procedure </a></li>
+                            </ul>
+                        </li>
+						
+						
+						<li class="dropdown">
+                            <a href="https://www.tgpcet.com/index.php#" class="dropdown-toggle" data-toggle="dropdown"> Exam Cell </a>
+                            <ul class="dropdown-menu animated">
+							
+							<li class="dropdown">
+                                    <a href="https://www.tgpcet.com/index.php#" class="dropdown-toggle" data-toggle="dropdown">Time Table - ESE Summer-2024</a>
+                                    <ul class="dropdown-menu animated">										
+										<li><a href="https://www.tgpcet.com/assets/Time-Table/SUMMER-2024/MTech_2_Sem_ESE_S-24.pdf"> M.Tech 2<sup>nd</sup> Semester </a> </li>
+										<li><a href="https://www.tgpcet.com/assets/Time-Table/SUMMER-2024/MBA-2_Sem_ESE_S-24.pdf"> MBA 2<sup>nd</sup> Semester </a> </li>
+										<li><a href="https://www.tgpcet.com/assets/Time-Table/SUMMER-2024/MBA-4_Sem_ESE_S-24.pdf"> MBA 4<sup>th</sup> Semester </a> </li>
+										<li><a href="https://www.tgpcet.com/assets/Time-Table/SUMMER-2024/MCA-2_Sem_ESE_S-24.pdf"> MCA 2<sup>nd</sup> Semester </a> </li>
+										<li><a href="https://www.tgpcet.com/assets/Time-Table/SUMMER-2024/MCA-4_Sem_ESE_S-24.pdf"> MCA 4<sup>th</sup> Semester  </a> </li>
+										
+										<li><a href="https://www.tgpcet.com/assets/Time-Table/SUMMER-2024/BTECH_2SEM_TIMETABLE_S24.pdf"> B.Tech 2<sup>nd</sup> Semester </a> </li>
+										<li><a href="https://www.tgpcet.com/assets/Time-Table/SUMMER-2024/BTECH_4SEM_TIMETABLE_S24.pdf"> B.Tech 4<sup>th</sup> Semester </a> </li>
+										<li><a href="https://www.tgpcet.com/assets/Time-Table/SUMMER-2024/BTECH_6SEM_TIMETABLE_S24.pdf"> B.Tech 6<sup>th</sup> Semester </a> </li>
+
+                                    </ul>
+                            </li>
+							
+							<li class="dropdown">
+                                    <a href="https://www.tgpcet.com/index.php#" class="dropdown-toggle" data-toggle="dropdown">Notices</a>
+                                    <ul class="dropdown-menu animated">
+										<li><a href="https://www.tgpcet.com/assets/NOTICE/MBA_I&amp;III_Resit.jpeg"> MBA I &amp; III (Resit) W-23  </a> </li>
+										<li><a href="https://www.tgpcet.com/assets/NOTICE/1st_Sem_MCA_Resit_W-23.jpeg"> 1st Sem MCA (Resit) W-23  </a> </li>
+										<li><a href="https://www.tgpcet.com/assets/NOTICE/Examination_Form_Sum_2024_2SemMBA_MCA_MTech.pdf"> 2nd Sem - MBA / MCA / M.Tech  </a> </li>
+										<li><a href="https://www.tgpcet.com/assets/NOTICE/Examination_Form_Sum_2024_4SemMBA_MCA_MTech.pdf"> 4th Sem - MBA / MCA / M.Tech  </a> </li>
+										<li><a href="https://www.tgpcet.com/assets/NOTICE/MTech_1_Sem_Re-Sit_Exam_Form_W-23.pdf"> M.Tech 1st Semester  </a> </li>
+										
+										<li><a href="https://www.tgpcet.com/assets/NOTICE/ESE_1_Semester_BTech_W23_Resit.pdf"> B.Tech 1st Semester  ESE Winter 2023 (Resit)  </a> </li>
+										<li><a href="https://www.tgpcet.com/assets/NOTICE/BTech_ESE_S24_4_SEM.pdf"> B.Tech ESE S-2024 4th Semester   </a> </li>
+										<li><a href="https://www.tgpcet.com/assets/NOTICE/BTech_ESE_S24_6_SEM.pdf"> B.Tech ESE S-2024 6th Semester   </a> </li>
+										
+										<!--<li><a href="assets/NOTICE/ESE-SUMMER-23-RESIT/MBA_4th_Sem_ESE_Sum_2023_Re-Sit.pdf"> MBA 4<sup>TH</sup> Sem.  </a> </li>
+										<li><a href="assets/NOTICE/ESE-WINTER-23-RESCHEDULING/Rescheduling_BTech_3rd_&_5th_Sem_ESE-Winter-2023.pdf"> Rescheduling ESE (W-23) B.Tech 3<sup>rd</sup> & 5<sup>th</sup> Sem.</a> </li>
+										<li><a href="assets/NOTICE/ESE-WINTER-23-RESCHEDULING/Rescheduling_MBA_MCA_1st_3rd_Sem_ESE_Exam_Winter-23.pdf"> Rescheduling ESE (W-23) MBA & MCA 1<sup>st</sup> Sem. & 3<sup>rd</sup> Sem</a> </li>
+										<li><a href="assets/NOTICE/SUMMER-23/PG_MOOC_Course_Fees_&_Exam_Schedule-Summer-2023_Re-Sit.pdf"> PG MOOC Course Fees & Exam Schedule Summer-2023 Re-Sit  </a>  </li>
+										<li><a href="assets/NOTICE/SUMMER-23/Time_Table_MCA_4th_Sem_Exam_Form_Summer_23_Re-Sit.pdf"> Time Table MCA 4th Sem Exam Form Summer-2023 Re-Sit  </a>  </li>
+										<li><a href="assets/NOTICE/WINTER-23/PG-1ST-SEM.jpeg"> PG 1<sup>st</sup> Sem.</a> </li>
+										<li><a href="assets/NOTICE/WINTER-23/PG-3RD-SEM.jpeg"> PG 3<sup>rd</sup> Sem.  </a> </li> -->
+										<!--<li><a href="assets/NOTICE/SUMMER-23/PG_2_Sem_ESE_S-2023_Re-Sit.pdf"> PG 2<sup>nd</sup> Sem. ESE S-2023 (Re-Sit) </a> </li>
+										<li><a href="assets/NOTICE/SUMMER-23/ESE-W-23-1_SEM_BTECH-GROUP-A_&_B.pdf"> B.TECH 1ST Semester ESE W-23 (GROUP A & B) </a> </li>
+										<li><a href="assets/NOTICE/SUMMER-23/Notice-2nd-Sem-ESE-Sum-23-Resit.pdf"> B.TECH 2nd Semester S-23 (Resit) </a> </li>
+										<li><a href="assets/NOTICE/Notice-B.Tech-3rd-Examination-form-Submission-Winter-2023.pdf"> B.Tech 3rd Examination form Submission Winter-2023 </a> </li>
+										<li><a href="assets/NOTICE/Notice-B.Tech-5rd-Examination-form-Submission-Winter-2023.pdf"> B.Tech 5th Examination form Submission Winter-2023  </a> </li>
+										<li><a href="assets/NOTICE/Revised-Schedule-of-ESE-Summer-2023.pdf"> Revised Schedule of ESE Summer 2023 </a> </li>
+										<li><a href="assets/NOTICE/SUMMER-23/End_Sem_Exam_Sum-23_PG.pdf"> Reshedule of End Sem Exam Sum-23 (PG) </a> </li> -->                                
+                                    </ul>
+                                </li>
+							
+							
+							<li class="dropdown">
+                                    <a href="https://www.tgpcet.com/index.php#" class="dropdown-toggle" data-toggle="dropdown"> Result ESE W-23 </a>
+                                    <ul class="dropdown-menu animated">
+										<li><a href="https://www.tgpcet.com/assets/RESULT/ESE-W-23/MBA_I.jpeg" target="_blank"> MBA (1<sup>st</sup> Sem) </a> </li>
+										<li><a href="https://www.tgpcet.com/assets/RESULT/ESE-W-23/MBA_III.jpeg" target="_blank"> MBA (3<sup>rd</sup> Sem) </a> </li>
+										
+										
+										<li><a href="https://www.tgpcet.com/assets/RESULT/ESE-W-23/MCA_1SEM_RESULT.jpeg" target="_blank"> MCA (1<sup>st</sup> Sem) </a> </li>
+										<li><a href="https://www.tgpcet.com/assets/RESULT/ESE-W-23/MTech-1Sem.pdf" target="_blank"> M.Tech (1<sup>st</sup> Sem) </a> </li>
+										<li><a href="https://www.tgpcet.com/assets/RESULT/ESE-W-23/MCA_GROUP_A_3RD_SEM.jpeg" target="_blank"> MCA (3<sup>rd</sup> Sem) </a> </li>
+										<li><a href="https://www.tgpcet.com/assets/RESULT/ESE-W-23/AE_&amp;_BT.jpeg" target="_blank"> B.Tech (3<sup>rd</sup> Sem) AE &amp; BT </a> </li>
+										<li><a href="https://www.tgpcet.com/assets/RESULT/ESE-W-23/CE_&amp;_ECE.jpeg" target="_blank"> B.Tech (3<sup>rd</sup> Sem) CE &amp; ECE </a> </li>
+										<li><a href="https://www.tgpcet.com/assets/RESULT/ESE-W-23/CSE_3sem.jpeg" target="_blank"> B.Tech (3<sup>rd</sup> Sem) CSE </a> </li>
+										<li><a href="https://www.tgpcet.com/assets/RESULT/ESE-W-23/DS_%20&amp;_IT.jpeg" target="_blank"> B.Tech (3<sup>rd</sup> Sem) DS  &amp; IT </a> </li>
+										<li><a href="https://www.tgpcet.com/assets/RESULT/ESE-W-23/ME_&amp;_EE.jpeg" target="_blank"> B.Tech (3<sup>rd</sup> Sem) ME &amp; EE </a> </li>
+										
+										<li><a href="https://www.tgpcet.com/assets/RESULT/ESE-W-23/GROUP_A.pdf" target="_blank"> B.Tech (1<sup>st</sup> Year) Group-A </a> </li>
+										<li><a href="https://www.tgpcet.com/assets/RESULT/ESE-W-23/GROUP_B.pdf" target="_blank"> B.Tech (1<sup>st</sup> Year) Group-B </a> </li>
+										<li><a href="https://www.tgpcet.com/assets/RESULT/ESE-W-23/BT.jpeg" target="_blank">  B.Tech BT (5<sup>th</sup> Sem) </a> </li>
+										<li><a href="https://www.tgpcet.com/assets/RESULT/ESE-W-23/CE.jpeg" target="_blank">  B.Tech CE (5<sup>th</sup> Sem) </a> </li>
+										<li><a href="https://www.tgpcet.com/assets/RESULT/ESE-W-23/CSE.jpeg" target="_blank"> B.Tech  CSE (5<sup>th</sup> Sem) </a> </li>
+										<li><a href="https://www.tgpcet.com/assets/RESULT/EESE-W-23/ECE.jpeg" target="_blank">  B.Tech ECE (5<sup>th</sup> Sem) </a> </li>
+										<li><a href="https://www.tgpcet.com/assets/RESULT/EESE-W-23/EE.jpeg" target="_blank">  B.Tech EE (5<sup>th</sup> Sem) </a> </li>
+										<li><a href="https://www.tgpcet.com/assets/RESULT/ESE-W-23/IT.jpeg" target="_blank">  B.Tech IT (5<sup>th</sup> Sem) </a> </li>
+										<li><a href="https://www.tgpcet.com/assets/RESULT/ESE-W-23/ME.jpeg" target="_blank">  B.Tech ME (5<sup>th</sup> Sem) </a> </li>
+                                    </ul>
+                                </li> 
+							
+							
+								<li><a href="http://43.248.72.67:90/ionems_tgpce_student/login" target="_blank"> Online Exam Form </a></li>
+								
+								<li class="dropdown">
+                                    <a href="https://www.tgpcet.com/index.php#" class="dropdown-toggle" data-toggle="dropdown">Time Table - Resit Winter-2023</a>
+                                    <ul class="dropdown-menu animated">										
+										<li><a href="https://www.tgpcet.com/assets/Time-Table/Resit-Winter-23/MBA-1st_Sem_ESE_Winter-2023_(Re-Sit).pdf"> MBA 1<sup>st</sup> Semester</a> </li>
+										<li><a href="https://www.tgpcet.com/assets/Time-Table/Resit-Winter-23/MBA-3rd_Sem_ESE_Winter-2023_(Re-Sit).pdf"> MBA 3<sup>rd</sup> Semester</a> </li>
+										<li><a href="https://www.tgpcet.com/assets/Time-Table/Resit-Winter-23/M.Tech_3rd_sem.pdf"> M.Tech 3<sup>rd</sup> Semester</a> </li>
+										<li><a href="https://www.tgpcet.com/assets/Time-Table/Resit-Winter-23/MCA-III_Sem_W-23_Resit.pdf"> MCA 3<sup>rd</sup> Semester (Open Elective)</a> </li>
+										<li><a href="https://www.tgpcet.com/assets/Time-Table/Resit-Winter-23/MCA_1st_Sem.jpeg"> MCA 1<sup>st</sup> Semester</a> </li>
+										<li><a href="https://www.tgpcet.com/assets/Time-Table/Resit-Winter-23/M.Tech_1st_sem.pdf"> M.Tech 1<sup>st</sup> Semester</a> </li>
+										<li><a href="https://www.tgpcet.com/assets/Time-Table/Resit-Winter-23/MCA-ESE-w-23-Resit.pdf"> MCA 3<sup>rd</sup> Semester</a> </li>
+										<li><a href="https://www.tgpcet.com/assets/Time-Table/Resit-Winter-23/B.Tech_First_Semester_Resit_W-23.pdf"> B.Tech 1<sup>st</sup> Semester</a> </li>
+										<li><a href="https://www.tgpcet.com/assets/Time-Table/Resit-Winter-23/B.Tech_Third_Semester_Resit_W-23.pdf"> B.Tech 3<sup>rd</sup> Semester</a> </li>
+										<li><a href="https://www.tgpcet.com/assets/Time-Table/Resit-Winter-23/B.Tech_Fifth_Semester_Resit_W-23.pdf"> B.Tech 5<sup>th</sup> Semester</a> </li>
+
+                                    </ul>
+                                </li> 
+								
+								
+								
+								<li class="dropdown">
+                                    <a href="https://www.tgpcet.com/index.php#" class="dropdown-toggle" data-toggle="dropdown"> Summer Term </a>
+                                    <ul class="dropdown-menu animated">										
+										<li><a href="https://www.tgpcet.com/assets/RESULT/summer_term_result/summer_term_result.pdf"> Result  (Summer Term)</a> </li>
+										<li><a href="https://www.tgpcet.com/assets/NOTICE/SUMMER-23/TimeTable_BTech._1st_Year_Summer-2023.pdf"> Notice - B.Tech 1<sup>st</sup> Year (Summer Term)</a> </li>
+                                    </ul>
+                                </li>  
+								
+								 <li class="dropdown">
+                                    <a href="https://www.tgpcet.com/index.php#" class="dropdown-toggle" data-toggle="dropdown">Time Table - ESE Winter-2023</a>
+                                    <ul class="dropdown-menu animated">										
+										<li><a href="https://www.tgpcet.com/assets/Time-Table/Winter-23/MBA_1SEM_ESE_Exam_Winter_2023.pdf"> MBA 1<sup>st</sup> Semester</a> </li>
+										<li><a href="https://www.tgpcet.com/assets/Time-Table/Winter-23/MBA_3SEM_ESE_Exam_Winter_2023.pdf"> MBA 3<sup>rd</sup> Semester</a> </li>
+										<li><a href="https://www.tgpcet.com/assets/Time-Table/Winter-23/MCA_1SEM_ESE_Exam_Winter_2023.pdf"> MCA 1<sup>st</sup> Semester</a> </li>
+										<li><a href="https://www.tgpcet.com/assets/Time-Table/Winter-23/MCA_3SEM_ESE_Exam_Winter_2023.pdf"> MCA 3<sup>RD</sup> Semester</a> </li>
+										<li><a href="https://www.tgpcet.com/assets/Time-Table/Winter-23/MTECH_1SEM_ESE_Exam_Winter_2023.pdf"> M.TECH 1<sup>st</sup> Semester</a> </li>
+										<li><a href="https://www.tgpcet.com/assets/Time-Table/Winter-23/MTECH_3SEM_ESE_Exam_Winter_2023.pdf"> M.TECH 3<sup>RD</sup> Semester</a> </li>
+										<li><a href="https://www.tgpcet.com/assets/Time-Table/Winter-23/BTech_1st_Sem_ESE_Exam_Winter_2023.pdf"> B.Tech 1<sup>st</sup> Semester</a> </li>
+										<li><a href="https://www.tgpcet.com/assets/Time-Table/Winter-23/BTech_3RD_Sem_ESE_Exam_Winter_2023.pdf"> B.Tech 3<sup>rd</sup> Semester</a> </li>
+										<li><a href="https://www.tgpcet.com/assets/Time-Table/Winter-23/BTech_5th_Sem_ESE_Exam_Winter_2023.pdf"> B.Tech 5<sup>th</sup> Semester</a> </li>
+                                    </ul>
+                                </li>  
+								
+								 <!--<li class="dropdown">
+                                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">Time Table - Resit ESE S-2023</a>
+                                    <ul class="dropdown-menu">										
+										<li><a href="assets/Time-Table/RESIT-S-23/MBA_4th_Sem_ESE_S_2023_Re-Sit.pdf"> MBA 4<sup>TH</sup>  sem ESE S-23 (Resit) </a> </li>
+										<li><a href="assets/Time-Table/RESIT-S-23/MCA_2nd_sem_ESE_Resit_S-23.pdf"> MCA 2<sup>nd</sup>  sem ESE S-23 (Resit) </a> </li>
+										<li><a href="assets/Time-Table/RESIT-S-23/MBA_2nd_sem_ESE_Resit_S-23.pdf"> MBA_2<sup>nd</sup> sem ESE S-23 (Resit) </a> </li>
+										<li><a href="assets/Time-Table/RESIT-S-23/MTECH_2nd_sem_ESE_Resit_S-23.pdf"> MTECH 2<sup>nd</sup> sem ESE S-23 (Resit) </a> </li>
+										<li><a href="assets/Time-Table/RESIT-S-23/BTech-2nd_Sem_ESE-S-23-Resit.pdf"> B.Tech 2<sup>nd</sup> Sem ESE S-23(Resit) </a> </li>
+                                    </ul>
+                                </li> --> 
+								
+								<!--<li class="dropdown">
+                                    <a href="#" class="dropdown-toggle" data-toggle="dropdown"> Result ESE S-23 (Resit) </a>
+                                    <ul class="dropdown-menu">
+										<li><a href="assets/RESULT/ESE-S-23-Resit/MTECH_2SEM_RESIT.jpeg" target="_blank"> M.Tech  (2<sup>nd</sup> Sem) </a> </li> 
+										<li><a href="assets/RESULT/ESE-S-23-Resit/MCA_4SEM_RESIT_GROUP-A.jpeg" target="_blank"> MCA  (4<sup>th</sup> Sem) </a> </li> 
+										<li><a href="assets/RESULT/ESE-S-23-Resit/2_Sem_Resit_S23.pdf" target="_blank"> B.Tech  (2<sup>nd</sup> Sem) </a> </li> 
+										<li><a href="assets/RESULT/ESE-S-23-Resit/4-SEM-RESIT.pdf" target="_blank"> B.Tech  (4<sup>th</sup> Sem) </a> </li> 
+                                    </ul>
+                                </li> -->
+								
+								 <!--<li class="dropdown">
+                                    <a href="#" class="dropdown-toggle" data-toggle="dropdown"> Result ESE S-23 </a>
+                                    <ul class="dropdown-menu">
+										<li><a href="assets/RESULT/ESE-S-23/MBA_4SEM_REGULAR_S23.jpeg" target="_blank"> MBA (4<sup>th</sup> Sem) </a> </li>
+										<li><a href="assets/RESULT/ESE-S-23/MTECH_4SEM.pdf" target="_blank"> M.Tech (4<sup>th</sup> Sem) </a> </li>
+										<li><a href="assets/RESULT/ESE-S-23/MCA_4th_sem.jpeg" target="_blank"> MCA (4<sup>th</sup> Sem) </a> </li>
+										<li><a href="assets/RESULT/ESE-S-23/MBA-2-SEM.jpeg" target="_blank"> MBA (2<sup>nd</sup> Sem) </a> </li>
+										<li><a href="assets/RESULT/ESE-S-23/MTech-2-SEM-S-23.pdf" target="_blank"> M.Tech (2<sup>nd</sup> Sem) </a> </li>
+										<li><a href="assets/RESULT/ESE-S-23/MCA-2-SEM.jpeg" target="_blank"> MCA (2<sup>nd</sup> Sem) </a> </li>
+										<li><a href="assets/RESULT/ESE-S-23/Group-A.pdf" target="_blank"> B.Tech  (2<sup>nd</sup> Sem) Group-A </a> </li>
+										<li><a href="assets/RESULT/ESE-S-23/Group-B.pdf" target="_blank"> B.Tech  (2<sup>nd</sup> Sem) Group-B </a> </li>
+										<li><a href="assets/RESULT/ESE-S-23/AE_&_BT.jpg" target="_blank"> AE & BT  (4<sup>th</sup> Sem) </a> </li>
+										<li><a href="assets/RESULT/ESE-S-23/CE.jpg" target="_blank"> CE  (4<sup>th</sup> Sem) </a> </li> 
+										<li><a href="assets/RESULT/ESE-S-23/CSE_&_ME.jpg" target="_blank"> CSE & ME  (4<sup>th</sup> Sem) </a> </li> 
+										<li><a href="assets/RESULT/ESE-S-23/EE_&_ECE.jpg" target="_blank"> EE & ECE (4<sup>th</sup> Sem)  </a> </li> 
+										<li><a href="assets/RESULT/ESE-S-23/IT.jpg" target="_blank"> IT  (4<sup>th</sup> Sem) </a> </li> 
+                                    </ul>
+                                </li> -->
+
+															
+								
+								<!--<li class="dropdown">
+                                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">Time Table ESE Summer-2023</a>
+                                    <ul class="dropdown-menu">																			
+										<li><a href="assets/Time-Table/SUMMER-23/Resit_BTech_4SEM.pdf"> B.Tech (4<sup>th</sup> Sem) Resit ESE S-23 </a> </li>
+										<li><a href="assets/Time-Table/SUMMER-23/MBA-IV_Sum-23.pdf"> MBA 4<sup>th</sup> Semester </a> </li>
+										<li><a href="assets/Time-Table/SUMMER-23/M.TECH_2ND_SEM_S23.pdf"> M.Tech 2<sup>nd</sup> Semester </a> </li>
+										<li><a href="assets/Time-Table/SUMMER-23/MCA_2_SEM_S23.pdf"> MCA 2<sup>nd</sup> Semester </a> </li>
+										<li><a href="assets/Time-Table/SUMMER-23/MCA_4TH_SEM_S23.pdf"> MCA 4<sup>th</sup> Semester </a> </li>
+										<li><a href="assets/Time-Table/SUMMER-23/MBA_2_SEM_S23.pdf"> MBA 2<sup>nd</sup> Semester </a> </li>
+										
+										<li><a href="assets/Time-Table/SUMMER-23/BTech_II_Sem_Sum-2023_Exam.pdf"> B.Tech 2<sup>nd</sup> Semester </a> </li>
+										<li><a href="assets/Time-Table/SUMMER-23/B.Tech_4_sem.pdf"> B.Tech 4<sup>th</sup> Semester </a> </li>
+                                    </ul>
+                                </li> -->
+
+
+								
+								<li class="dropdown">
+                                    <a href="https://www.tgpcet.com/index.php#" class="dropdown-toggle" data-toggle="dropdown">Examination Form</a>
+                                    <ul class="dropdown-menu animated">
+										<li> <a href="https://www.tgpcet.com/assets/Exam/SUMMER-TERM-EXAMINATION-FORM.pdf" target="_blank"> SUMMER TERM EXAMINATION FORM </a> </li>
+										<li> <a href="https://www.tgpcet.com/assets/Exam/EXAMINATION-FORM.pdf" target="_blank"> Regular Examination Form </a> </li>
+										<li> <a href="https://www.tgpcet.com/assets/Exam/RESIT-EXAMINATION-FORM.pdf" target="_blank"> RESIT EXAMINATION FORM </a> </li>  																				
+                                    </ul>
+                                </li>	
+					
+                            </ul>
+                        </li>
+						
+						
+						
+						<li class="dropdown">
+                            <a href="https://www.tgpcet.com/index.php#" class="dropdown-toggle" data-toggle="dropdown">Gallery</a>
+                            <ul class="dropdown-menu animated">
+							
+							<li><a href="https://www.tgpcet.com/PRAYAS-2024.php"> Prayas 2024  </a></li>
+							
+							<li class="dropdown">
+                                    <a href="https://www.tgpcet.com/index.php#" class="dropdown-toggle" data-toggle="dropdown">Nostalgia </a>
+                                    <ul class="dropdown-menu animated">
+                                        <li><a href="https://www.tgpcet.com/NOSTALGIA-2K24.php"> Nostalgia 2024 </a></li>
+										<li><a href="https://www.tgpcet.com/Nostalgia-19.php"> Nostalgia 2019 </a></li>
+										<li><a href="https://www.tgpcet.com/Nostalgia-18.php"> Nostalgia 2018 </a></li>
+										<li><a href="https://www.tgpcet.com/Nostalgia-17.php"> Nostalgia 2017 </a></li>
+									</ul>
+                            </li>
+							
+							 
+								
+								<li><a href="https://www.tgpcet.com/International_womens_day.php"> International Womens Day 2024  </a></li>
+								
+								<li class="dropdown">
+                                    <a href="https://www.tgpcet.com/index.php#" class="dropdown-toggle" data-toggle="dropdown"> Foundation Day	</a>
+                                    <ul class="dropdown-menu animated">
+                                        <li><a href="https://www.tgpcet.com/FOUNDATION_DAY-2024.php"> 2024 </a></li>
+										<li><a href="https://www.tgpcet.com/FOUNDATION_DAY-2023.php"> 2023 </a></li>
+                                    </ul>
+                            </li>
+								
+								
+								
+							<li class="dropdown">
+                                    <a href="https://www.tgpcet.com/index.php#" class="dropdown-toggle" data-toggle="dropdown">International Conference	</a>
+                                    <ul class="dropdown-menu animated">
+                                        <li><a href="https://www.tgpcet.com/IC-IKSAT-24.php"> IC-IKSAT-24 </a></li>
+										<li><a href="https://www.tgpcet.com/IC-DTSDG-22.php"> IC-DTSDG-22 </a></li>
+										<li><a href="https://www.tgpcet.com/ICAIML-20.php"> ICAIML-20 </a></li>
+										<li><a href="https://www.tgpcet.com/MPIR-19.php"> MPIR 2019 </a></li>
+										<li><a href="https://www.tgpcet.com/ICIREST-2019.php"> ICIREST 2019 </a></li>
+										<li><a href="https://www.tgpcet.com/ICIRSET-2018.php"> ICIREST 2018 </a></li>
+                                    </ul>
+                            </li>
+							
+							<li><a href="https://www.tgpcet.com/Graduation_Ceremony_24.php"> GRADUATION CEREMONY 2024 </a></li>
+							<li><a href="https://www.tgpcet.com/HR_Conclave_2024.php"> HR Conclave-2024 </a></li>
+							<li><a href="https://www.tgpcet.com/Science_Day_24.php"> Science Day 2024 </a></li>
+							<li><a href="https://www.tgpcet.com/SHIKHAR-24.php"> SHIKHAR-24 </a></li>
+							
+							<li class="dropdown">
+                                    <a href="https://www.tgpcet.com/index.php#" class="dropdown-toggle" data-toggle="dropdown">UTKARSSH </a>
+                                    <ul class="dropdown-menu animated">
+                                        <li><a href="https://www.tgpcet.com/UTTKARSH-2024.php"> UTKARSSH - 2024 </a></li>
+										<li><a href="https://www.tgpcet.com/UTTKARSH-2023.php"> UTKARSSH - 2023 </a></li>
+										<li><a href="https://www.tgpcet.com/UTTKARSH-2019.php"> UTKARSSH - 2019 </a></li>
+										<li><a href="https://www.tgpcet.com/UTTKARSH-2018.php"> UTKARSSH - 2018 </a></li>
+										<li><a href="https://www.tgpcet.com/UTTKARSH-2017.php"> UTKARSSH - 2017 </a></li>
+                                        <li><a href="https://www.tgpcet.com/UTTKARSH-2015.php"> UTKARSSH - 2015 </a></li>
+                                		<li><a href="https://www.tgpcet.com/UTTKARSH-2014.php"> UTKARSSH - 2014 </a></li>
+                                        <li><a href="https://www.tgpcet.com/UTTKARSH-2013.php"> UTKARSSH - 2013 </a></li>
+                                        <li><a href="https://www.tgpcet.com/UTTKARSH-2012.php"> UTKARSSH - 2012 </a></li>
+                                        <li><a href="https://www.tgpcet.com/UTTKARSH-2011.php"> UTKARSSH - 2011 </a></li>
+                                        <li><a href="https://www.tgpcet.com/UTTKARSH-2010.php"> UTKARSSH - 2010 </a></li>
+                                    </ul>
+                                </li>
+							<li><a href="https://www.tgpcet.com/Parents-Teacher-Conclave-23.php"> Parents-Teacher Conclave 23 </a></li>
+							
+							<li class="dropdown">
+                                    <a href="https://www.tgpcet.com/index.php#" class="dropdown-toggle" data-toggle="dropdown"> MANTHAN </a>
+                                    <ul class="dropdown-menu animated">
+                                        <li><a href="https://www.tgpcet.com/MANTHAN-23.php"> MANTHAN 2023  </a></li>
+										<li><a href="https://www.tgpcet.com/MANTHAN-22.php"> MANTHAN 2022  </a></li>
+                                    </ul>
+                            </li> 
+
+							
+							<li><a href="https://www.tgpcet.com/AICTE-SPICES.php"> AICTE SPICES </a></li>
+                                
+								<li class="dropdown">
+                                    <a href="https://www.tgpcet.com/index.php#" class="dropdown-toggle" data-toggle="dropdown">TECHNOFEST </a>
+                                    <ul class="dropdown-menu animated">
+                                        <li><a href="https://www.tgpcet.com/Technofest-20.php"> TECHNOFEST 2020 </a></li>
+                                        <li><a href="https://www.tgpcet.com/Technofest-19.php"> TECHNOFEST 2019 </a></li>
+                                        <li><a href="https://www.tgpcet.com/Technofest-18.php"> TECHNOFEST 2018 </a></li>
+										<li><a href="https://www.tgpcet.com/Technofest-17.php"> TECHNOFEST 2017 </a></li>
+                                    </ul>
+                                </li>
+								<li class="dropdown">
+                                    <a href="https://www.tgpcet.com/index.php#" class="dropdown-toggle" data-toggle="dropdown">UDAAN </a>
+                                    <ul class="dropdown-menu animated">
+                                        <li><a href="https://www.tgpcet.com/UDAAN-2020.php"> UDAAN-2020 </a></li>
+										<li><a href="https://www.tgpcet.com/UDAAN-2018.php"> UDAAN-2018 </a></li>
+                                    </ul>
+                                </li>
+								
+
+								<li><a href="https://www.tgpcet.com/Miscellaneous.php"> Miscellaneous </a></li>
+								
+                                
+                            </ul>
+                        </li>
+						
+						
+						<!-- <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown" > NAAC</a>
+                            <ul class="dropdown-menu">
+                                 <li><a href="naac-criteria.php">NAAC Criteria</a></li>
+                                <li><a href="EXTENDED-PROFILE.php"> Extended Criteria </a></li> 
+                                <li><a href="DVV-Clarification.php"> DVV Clarification </a></li>     
+								<li><a href="assets/img/NAAC-SSR/NAAC-SSR.pdf" target="_blank"> NAAC SSR </a></li> 
+                            </ul>
+                        </li> -->
+						
+						<li class="dropdown">
+                            <a href="https://www.tgpcet.com/index.php#" class="dropdown-toggle" data-toggle="dropdown"> NAAC</a>
+                            <ul class="dropdown-menu animated" style="display: none;">
+                                <li><a href="https://www.tgpcet.com/AQAR-22-23.php">  AQAR 22-23  </a></li> 
+								<li><a href="https://www.tgpcet.com/IQAC.php">  IQAC </a></li> 
+								<!--<li><a href="assets/img/NAAC-SSR/Best-Practices-of-Institution.pdf" target="_blank"> Best Practices of Institution </a></li> --> 
+								<li class="dropdown">
+                                    <a href="https://www.tgpcet.com/index.php#" class="dropdown-toggle" data-toggle="dropdown">Best Practices of Institution </a>
+                                    <ul class="dropdown-menu animated" style="display: none; opacity: 1;">
+                                        <li><a href="https://www.tgpcet.com/assets/Best_Practices/Learning_through_V-Labs.pdf"> Learning through V-Labs </a></li>
+										<li><a href="https://www.tgpcet.com/assets/Best_Practices/Cross_word.pdf"> Crossword Puzzle </a></li>
+										<li><a href="https://www.tgpcet.com/assets/Best_Practices/Case%20Study-Parallel_Operation_of_Transformer.pdf"> Case Study </a></li>
+										<li><a href="https://www.tgpcet.com/assets/Best_Practices/Activity_U1-DCMT_&amp;_Rubrics.pdf"> Activity Based Learning </a></li>
+										<li><a href="http://www.tgpcet.com/assets/case-study-cn/index.html"> Case Study on CN </a></li>
+                                    </ul>
+                                </li>
+								<li><a href="https://www.tgpcet.com/assets/NAAC/NAAC-SSR.pdf" target="_blank"> NAAC SSR </a></li>  
+								<li><a href="https://www.tgpcet.com/DVV-Clarification.php"> DVV Clarification </a></li> 								
+                            </ul>
+                        </li>
+						
+						
+						
+						
+						<!-- <li><a href="Committees.php"> Committee </a></li> -->                        
+						<li><a href="https://www.tgpcet.com/Alumni.php"> Alumni</a> </li>
+						<li><a href="https://www.tgpcet.com/TNP.php">Placement</a> </li>
+						
+						<li><a href="https://www.tgpcet.com/R&amp;D_Cell.php">R&amp;D Cell </a> </li>
+						
+						<!--<li><a href="media.php">Media </a> </li>-->
+						<li><a href="https://www.tgpcet.com/Student_Support.php"> Student Support </a> </li>
+						
+						
+						
+						
+                        
+						
+						<!--<li>  <a href="NISP.php">NISP</a> </li>-->
+                    </ul>
+                </div><!-- /.navbar-collapse -->
+            </div>
+
+        </nav></div>
+        <!-- End Navigation -->
+
+    </header>  
+    <!-- End Header -->
+
+    <!-- Start Banner 
+    ============================================= -->
+		<div class="banner-area">
+        <div id="bootcarousel" class="carousel text-light text-center text-dark slide animate_text" data-ride="carousel">
+
+            <!-- Wrapper for slides -->
+            <div class="carousel-inner carousel-zoom">
+                
+				<div class="item bg-cover">
+					<img src="./TGPCET_files/Admission_Open.jpg" style="width:100%">
+                    <div class="box-table">
+                        <div class="box-cell ">
+                            <div class="container">
+							<div class="row">
+                                    <div class="col-md-10 col-md-offset-1">
+                                        <div class="content">
+                                             <!--<h3 data-animation="animated slideInDown"> 75<sup>th</sup> Republic Day Flag Hoisting Ceremony. </h3>   -->                                  
+                                        </div>
+                                    </div>
+                                </div>
+               
+                            </div>
+                        </div>
+                    </div>
+                </div> 
+				
+				<div class="item bg-cover">
+					<img src="./TGPCET_files/course_banner_updated.jpg" style="width:100%">
+                    <div class="box-table">
+                        <div class="box-cell ">
+                            <div class="container">
+							<div class="row">
+                                    <div class="col-md-10 col-md-offset-1">
+                                        <div class="content">
+                                             <!--<h3 data-animation="animated slideInDown"> 75<sup>th</sup> Republic Day Flag Hoisting Ceremony. </h3>   -->                                  
+                                        </div>
+                                    </div>
+                                </div>
+               
+                            </div>
+                        </div>
+                    </div>
+                </div>  
+				
+				<div class="item bg-cover active">
+					<img src="./TGPCET_files/College_Campus.jpg" style="width:100%">
+                    <div class="box-table">
+                        <div class="box-cell ">
+                            <div class="container">
+                                <div class="row">
+                                    <div class="col-md-10 col-md-offset-1">
+                                        <!--<div class="content">
+                                            <h2 data-animation="animated slideInDown">AN AUTONOMOUS INSTITUTE</h2>
+											<h4 data-animation="animated slideInDown" class="content_nba">NBA ACCREDITED INSTITUTE</h4>
+											<h3 data-animation="animated slideInDown">Learn from us and Accelerate Your Bright Future.</h3>
+                                            <ul data-animation="animated fadeInLeft" class="list">
+                                                <li> Diploma </li>                                                
+												<li>B.Tech </li>
+												<li> MBA </li>
+												<li> MCA </li>
+												<li> M.TECH </li>
+                                            </ul>
+                                             
+                                        </div> -->
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div> 
+				
+				<div class="item bg-cover">
+					<img src="./TGPCET_files/Place_Students.jpg" style="width:100%">
+                    <div class="box-table">
+                         <div class="box-cell">
+                            <div class="container">
+                                <div class="row">
+                                    <div class="col-md-10 col-md-offset-1">
+                                        <div class="content">
+                                            <!-- <h2 data-animation="animated slideInDown"> Top Placement </h2>  -->                                        
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>  
+                        </div> 
+                    </div>
+                </div>
+				
+				<div class="item bg-cover">
+					<img src="./TGPCET_files/6.jpg" style="width:100%">
+                    <div class="box-table">
+                         <div class="box-cell">
+                             <div class="container">
+                                <div class="row">
+                                    <div class="col-md-10 col-md-offset-1">
+                                        <div class="content">
+                                            <!-- <h2 data-animation="animated slideInDown">Our Recruiters </h2>  -->                                        
+                                        </div>
+                                    </div>
+                                </div>
+                            </div> 
+                        </div> 
+                    </div>
+                </div>
+				
+				
+				<div class="item bg-cover">
+					<img src="./TGPCET_files/GRADUATION_CEREMONY_24.jpg" style="width:100%">
+                    <div class="box-table">
+                        <div class="box-cell ">
+                            <div class="container">
+							<div class="row">
+                                    <div class="col-md-10 col-md-offset-1">
+                                        <div class="content">
+                                             <!--<h3 data-animation="animated slideInDown"> 75<sup>th</sup> Republic Day Flag Hoisting Ceremony. </h3>   -->                                  
+                                        </div>
+                                    </div>
+                                </div>
+               
+                            </div>
+                        </div>
+                    </div>
+                </div>  
+
+				  
+				
+				 
+				
+				<!--<div class="item bg-cover" style="background-image: url(assets/img/banner/mou-banner.jpg);">
+                    <div class="box-table">
+                        <div class="box-cell ">
+                            <div class="container">
+							<div class="row">
+                                    <div class="col-md-10 col-md-offset-1">
+                                        <div class="content">
+                                             <h2 data-animation="animated slideInDown"> Top Placement </h2>                                     
+                                        </div>
+                                    </div>
+                                </div>
+               
+                            </div>
+                        </div>
+                    </div>
+                </div> -->
+				
+				
+
+				
+				
+				
+				
+				<div class="item  bg-cover">
+					<img src="./TGPCET_files/IC-IKSAT-24.jpg" style="width:100%">
+                    <div class="box-table">
+                        <div class="box-cell ">
+                            <div class="container">
+							<div class="row">
+                                    <div class="col-md-10 col-md-offset-1">
+                                        <div class="content">
+                                             <!--<h3 data-animation="animated slideInDown"> 75<sup>th</sup> Republic Day Flag Hoisting Ceremony. </h3>   -->                                  
+                                        </div>
+                                    </div>
+                                </div>
+               
+                            </div>
+                        </div>
+                    </div>
+                </div>  
+				
+				
+				
+				
+				
+				
+				
+          
+            </div>
+            <!-- End Wrapper for slides -->
+
+            <!-- Left and right controls -->
+            <a class="left carousel-control" href="https://www.tgpcet.com/index.php#bootcarousel" data-slide="prev">
+                <i class="fa fa-angle-left"></i>
+                <span class="sr-only">Previous</span>
+            </a>
+            <a class="right carousel-control" href="https://www.tgpcet.com/index.php#bootcarousel" data-slide="next">
+                <i class="fa fa-angle-right"></i>
+                <span class="sr-only">Next</span>
+            </a>
+        </div>
+    </div>   
+    <!-- End Banner -->
+
+    <!-- Start Upcomming Event - New & Update
+    ============================================= -->
+		﻿<div class="weekly-top-items carousel-shadow default-padding">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-8">
+                    <div class="top-courses">
+                        <div class="heading">
+                            <h4><!--Top Courses --> <strong>Upcoming Events </strong></h4>
+                        </div>
+                        <div class="top-course-items top-courses-carousel owl-carousel owl-theme owl-loaded owl-drag">
+
+							
+							<!-- Start Single Item -->
+								   
+                            <!-- End Single Item -->
+							
+							<!-- Start Single Item -->
+								   
+                            <!-- End Single Item -->
+							
+							<!-- Start Single Item -->
+								   
+                            <!-- End Single Item -->
+							
+							<!-- Start Single Item -->
+                               
+                            <!-- End Single Item -->
+							
+							
+                            
+                           
+                        <div class="owl-stage-outer"><div class="owl-stage" style="transform: translate3d(-760px, 0px, 0px); transition: all 0.25s ease 0s; width: 1520px;"><div class="owl-item" style="width: 350px; margin-right: 30px;"><div class="item">
+									<div class="thumb">
+											 <img src="./TGPCET_files/FDP_EE.png" alt="Thumb"> 
+									</div>  
+									<div class="info">
+										 <h4>
+											<a href="https://www.tgpcet.com/index.php#"> One Week FDP </a>
+										</h4> 
+										  <p>
+											  "IoT-Driven Renewable Energy: Powering Sustainable Futures” 
+										</p>  
+									 <div class="footer-meta">
+											 <a class="btn btn-theme effect btn-sm center" href="https://www.tgpcet.com/assets/Upcoming-Events/FDP_EE.pdf" target="_blank"> Read More  </a>
+										</div> 
+									</div>  
+								</div></div><div class="owl-item" style="width: 350px; margin-right: 30px;"><div class="item">
+									<div class="thumb">
+											 <img src="./TGPCET_files/IT_FDP.png" alt="Thumb"> 
+									</div>  
+									<div class="info">
+										 <h4>
+											<a href="https://www.tgpcet.com/index.php#"> One Week FDP </a>
+										</h4> 
+										  <p>
+											  "Intelligent Automation through Artificial Intelligence, Machine Learning &amp; Deep Learning” 
+										</p>  
+									 <div class="footer-meta">
+											 <a class="btn btn-theme effect btn-sm center" href="https://www.tgpcet.com/assets/Upcoming-Events/IT_FDP.pdf" target="_blank"> Read More  </a>
+										</div> 
+									</div>  
+								</div></div><div class="owl-item active" style="width: 350px; margin-right: 30px;"><div class="item">
+									<div class="thumb">
+											 <img src="./TGPCET_files/ME_FDP.jpg" alt="Thumb"> 
+									</div>  
+									<div class="info">
+										 <h4>
+											<a href="https://www.tgpcet.com/index.php#"> One Week FDP </a>
+										</h4> 
+										  <p>
+											  "RECENT ADVANCEMENT IN
+3D printing Applications” 
+										</p>  
+									 <div class="footer-meta">
+											 <a class="btn btn-theme effect btn-sm center" href="https://www.tgpcet.com/assets/Upcoming-Events/ME_FDP.pdf" target="_blank"> Read More  </a>
+										</div> 
+									</div>  
+								</div></div><div class="owl-item active" style="width: 350px; margin-right: 30px;"><div class="item">
+                                <div class="thumb">
+										 <img src="./TGPCET_files/FDP_AERO.jpg" alt="Thumb"> 
+                                </div>  
+                                <div class="info">
+                                     <h4>
+                                        <a href="https://www.tgpcet.com/index.php#"> One Week FDP </a>
+                                    </h4> 
+                                      <p>
+                                          Recent Technological Advancement in Aerospace Engineering
+                                    </p>  
+                                 <div class="footer-meta">
+                                         <a class="btn btn-theme effect btn-sm center" href="https://www.tgpcet.com/assets/Upcoming-Events/FDP_AERO.pdf" target="_blank"> Read More  </a>
+                                    </div> 
+                                </div>  
+                            </div></div></div></div><div class="owl-nav"><div class="owl-prev"><i class="fa fa-angle-left"></i></div><div class="owl-next disabled"><i class="fa fa-angle-right"></i></div></div><div class="owl-dots disabled"></div></div> 
+                    </div>
+                </div>
+				
+				<div class="col-md-4">
+                    <div class="top-author">
+                        <h4>News &amp; Updates</h4>
+						
+                        <div class="author-items">
+                            <!-- Single Item -->
+							 <marquee direction="up" scrolldelay="2" scrollamount="2" onmouseover="this.stop()" onmouseout="this.start()"> 
+                            <div class="item">								
+									<div class="info"> 
+										
+										<h5><a href="https://www.tgpcet.com/career.php">→   Recruitment - May 2024 </a> </h5>
+										<h5><a href="https://accounts.google.com/InteractiveLogin?continue=https://docs.google.com/forms/d/e/1FAIpQLSc8Lpdrwy1BdAt4Vseb5BsrorMNXBf2CuLR9jYh1GK83l3T0Q/viewform?usp%3Dsend_form&amp;followup=https://docs.google.com/forms/d/e/1FAIpQLSc8Lpdrwy1BdAt4Vseb5BsrorMNXBf2CuLR9jYh1GK83l3T0Q/viewform?usp%3Dsend_form&amp;ltmpl=forms&amp;osid=1&amp;passive=1209600&amp;service=wise&amp;ifkv=AaSxoQzBxKVvKZLa63rBxCko7IYmb351CpIfH0JursGWu_m6diR3syq42yPxgAJejE9ZglVuk71zFg">→   Admission Open 2024-25 </a> </h5>
+
+									</div>								
+                            </div>
+							 </marquee>
+                            <!-- End Single Item -->
+                
+           
+                            <!--<a href="#">View All <i class="fas fa-angle-double-right"></i></a> -->
+                        </div> 
+                    </div>
+                </div> 
+            </div>
+        </div>
+    </div>   
+    <!-- End Upcomming Event - New & Update -->
+
+    <!-- Start About Section
+    ============================================= -->
+		<div class="registration-area default-padding bg-dark text-light">
+        <!-- Fixed BG-->
+        <div class="fixed-bg bg-cover" style="background-image: url(assets/img/banner/19.jpg);"></div>
+        <!-- End Fixed BG-->
+        <div class="container">
+            <div class="row">
+                <div class="col-md-7 countdown">
+                    <h2>ABOUT TGPCET </h2>
+                    <!-- <h4>Get 50s of online Courses For Free!</h4>-->
+                    <p class="text-justify">
+                        Tulsiramji Gaikwad-Patil College of Engineering and Technology (TGPCET) was established in the year 2007 by Vidarbha Bahu-uddeshiya Shikshan Sanstha (VBSS), a registered society. It is a self financed Private Engineering College, which is affiliated to Rashtrasant Tukadoji Maharaj Nagpur University (RTMNU) Nagpur and is approved by All India Council for Technical Education, New Delhi. Also college is approved by Directorate of Technical Education (DTE), Mumbai, Maharashtra State. The Institute is Accredited with A+ (3.32 CGPA) by NATIONAL ASSESSMENT AND ACCREDITATION COUNCIL (NAAC). An Autonomous Institute affiliated to RTM Nagpur University, Nagpur.  
+                    </p>
+                    <!--<ul>
+                        <li>Design Instruments for Communication</li>
+                        <li>Own partiality motionless</li>
+                        <li>Considered sympathize</li>
+                        <li>Letter of on become</li>
+                    </ul> -->
+                    <!--<div class="counter-class" data-date="2020-3-24 23:59:59">
+                        <div class="row">
+                            <div class="item-list">
+                                <div class="counter-item">
+                                    <div class="item">
+                                        <span class="counter-days"></span> Days
+                                    </div>
+                                </div>
+                                <div class="counter-item">
+                                    <div class="item">
+                                        <span class="counter-hours"></span> Hours
+                                    </div>
+                                </div>
+                                <div class="counter-item">
+                                    <div class="item">
+                                        <span class="counter-minutes"></span> Minutes
+                                    </div>
+                                </div>
+                                <div class="counter-item">
+                                    <div class="item">
+                                        <span class="counter-seconds"></span> Seconds
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div> -->
+                </div>
+                <div class="col-md-5 reg-form">
+                    <!--<form action="#">
+                        <h5>Free</h5>
+                        <div class="row">
+                            <div class="col-md-6">
+                                <div class="form-group">
+                                    <input class="form-control" placeholder="First Name" type="text">
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <div class="form-group">
+                                    <input class="form-control" placeholder="Last Name" type="text">
+                                </div>
+                            </div>
+                            <div class="col-md-12">
+                                <div class="form-group">
+                                    <input class="form-control" placeholder="Email*" type="email">
+                                </div>
+                            </div>
+                            <div class="col-md-12">
+                                <div class="form-group">
+                                    <select>
+                                        <option value="1">Chose Subject</option>
+                                        <option value="2">Computer Engineering</option>
+                                        <option value="4">Accounting Technologies</option>
+                                        <option value="5">Web Development</option>
+                                        <option value="6">Machine Language</option>
+                                    </select>
+                                </div>
+                            </div>
+                            <div class="col-md-12">
+                                <div class="form-group">
+                                    <input class="form-control" placeholder="Phone" type="text">
+                                </div>
+                            </div>
+                            <div class="col-md-12">
+                                <button type="submit">
+                                    Rigister Now
+                                </button>
+                            </div>
+                        </div>
+                    </form> -->
+                </div>
+            </div>
+        </div>
+    </div>   
+    <!-- End About Section -->
+
+    <!-- Start PROGRAMS @ TGPCET 
+    ============================================= -->
+		  <div class="category-area default-padding">
+        <div class="container">
+            <div class="row">
+                <div class="site-heading text-center">
+                    <div class="col-md-8 col-md-offset-2">
+                        <h2>PROGRAMS @ TGPCET </h2>
+                        <!--<p>
+                            Discourse assurance estimable applauded to so. Him everything melancholy uncommonly but solicitude inhabiting projection off. Connection stimulated estimating excellence an to impression. 
+                        </p> -->
+                    </div>
+                </div>
+            </div>
+            <div class="category-items">
+                <div class="row">
+				
+				<!-- Single Item -->
+                    <div class="col-md-3 col-sm-6 equal-height" style="height: 252px;">
+                        <div class="item malachite">
+                            <a href="https://www.tgpcet.com/CSE-dept.php">
+                                <div class="item-box">
+                                    <div class="icon">
+                                        <i class="fas fa-microchip"></i>
+                                    </div>
+                                    <div class="info">
+                                        <h5>Computer Science and Engineering </h5>
+                                        <p>
+                                            Intake <strong>150</strong>
+											<!--<strong> Choice Code: 415124210 </strong>-->
+                                        </p>
+                                        <span> Read More </span>
+                                    </div>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                    <!-- End Single Item -->
+					
+					<!-- Single Item -->
+                    <div class="col-md-3 col-sm-6 equal-height" style="height: 252px;">
+                        <div class="item brilliantrose">
+                            <a href="https://www.tgpcet.com/IT-dept.php">
+                                <div class="item-box">
+                                    <div class="icon">
+                                        <i class="fas fa-wifi"></i>
+                                    </div>
+                                    <div class="info">
+                                        <h5>Information Technology</h5>
+                                        <p>
+                                            Intake <strong> 120 </strong>
+											<!--<strong> Choice Code: 415124610 </strong>-->
+                                        </p>
+                                        <span> Read More </span>
+                                    </div>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                    <!-- End Single Item -->
+					
+					<!-- Single Item -->
+                    <div class="col-md-3 col-sm-6 equal-height" style="height: 252px;">
+                        <div class="item mariner">
+                            <a href="https://www.tgpcet.com/DATA-SCIENCE-Dept.php">
+                                <div class="item-box">
+                                    <div class="icon">
+                                        <i class="fas fa-database"></i>
+                                    </div>
+                                    <div class="info">
+                                        <h5>Computer Science and Engineering (Data Science)</h5>
+                                        <p>
+                                            Intake <strong>120</strong>
+											<!--<strong> Choice Code: 415191210 </strong>-->
+                                        </p>
+                                        <span> Read More </span>
+                                    </div>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                    <!-- End Single Item -->
+					
+                    <!-- Single Item -->
+                    <div class="col-md-3 col-sm-6 equal-height" style="height: 252px;">
+                        <div class="item mariner">
+                            <a href="https://www.tgpcet.com/Mechanical-dept.php">
+                                <div class="item-box">
+                                    <div class="icon">
+                                         <!--<i class="flaticon-envelope"></i>-->
+										 <i class="fas fa-cogs"></i>								 
+                                    </div>
+                                    <div class="info">
+                                        <h5>Mechanical Engineering <p class="text-danger bg-white"> (NBA Accredited) </p> </h5>
+                                        <p>
+                                            Intake <strong> 90 </strong>
+											<!--<strong> Choice Code: 415161210 </strong>-->
+                                        </p>
+                                        <span> Read More</span>
+                                    </div>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                    <!-- End Single Item -->
+					
+					<!-- Single Item -->
+                    <div class="col-md-3 col-sm-6 equal-height" style="height: 252px;">
+                        <div class="item casablanca">
+                            <a href="https://www.tgpcet.com/Electrical-dept.php">
+                                <div class="item-box">
+                                    <div class="icon">
+                                        <i class="fas fa-bolt"></i>
+                                    </div>
+                                    <div class="info">
+                                        <h5>Electrical Engineering <p class="text-danger bg-white"> (NBA Accredited) </p></h5>
+                                        <p>
+                                            Intake <strong>120</strong>
+											<!--<strong> Choice Code: 415129310 </strong>-->
+                                        </p>
+                                        <span> Read More </span>
+                                    </div>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                    <!-- End Single Item -->
+					
+					
+                    <!-- Single Item -->
+                    <div class="col-md-3 col-sm-6 equal-height" style="height: 252px;">
+                        <div class="item java">
+                            <a href="https://www.tgpcet.com/Civil-dept.php">
+                                <div class="item-box">
+                                    <div class="icon">
+                                        <i class="far fa-building"></i>
+                                    </div>
+                                    <div class="info">
+                                        <h5>Civil Engineering </h5>
+                                        <p>
+                                            Intake <strong> 60 </strong> 
+											<!--<strong> Choice Code: 415119110 </strong>-->
+                                        </p>
+                                        <span> Read More </span>
+                                    </div>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                    <!-- End Single Item -->
+                    
+					
+                    
+                    <!-- Single Item -->
+                    <div class="col-md-3 col-sm-6 equal-height" style="height: 252px;">
+                        <div class="item casablanca">
+                            <a href="https://www.tgpcet.com/ECE-dept.php">
+                                <div class="item-box">
+                                    <div class="icon">
+                                        <i class="fas fa-broadcast-tower"></i>
+                                    </div>
+                                    <div class="info">
+                                        <h5>Electronics &amp; Communication  Engineering </h5>
+                                        <p>
+                                            Intake <strong>120</strong>
+											<!--<strong> Choice Code: 415137010 </strong>-->
+                                        </p>
+                                        <span>Read More </span>
+                                    </div>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                    <!-- End Single Item -->
+                    <!-- Single Item -->
+                    <div class="col-md-3 col-sm-6 equal-height" style="height: 252px;">
+                        <div class="item emerald">
+                            <a href="https://www.tgpcet.com/BTech-Biotechnology.php">
+                                <div class="item-box">
+                                    <div class="icon">
+                                        <!-- <i class="fas fa-vial"></i>-->
+										<i class="fas fa-dna"></i>
+                                    </div>
+                                    <div class="info">
+                                        <h5>Bio-Technology </h5>
+                                        <p>
+                                            Intake <strong>60</strong>
+											<!--<strong> Choice Code: 415108210 </strong>-->
+                                        </p>
+                                        <span>Read More </span>
+                                    </div>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                    <!-- End Single Item -->
+					
+					<!-- Single Item -->
+                    <div class="col-md-3 col-sm-6 equal-height" style="height: 239px;">
+                        <div class="item mariner">
+                            <a href="https://www.tgpcet.com/Aeronautical-Engineering.php">
+                                <div class="item-box">
+                                    <div class="icon">
+                                        <i class="fas fa-plane"></i>
+                                    </div>
+                                    <div class="info">
+                                        <h5>Aeronautical Engineering </h5>
+                                        <p>
+                                            Intake <strong>60</strong> 
+											<!--<strong> Choice Code: 415100210 </strong>-->
+                                        </p>
+                                        <span> Read More </span>
+                                    </div>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                    <!-- End Single Item -->
+					
+					
+					
+					
+					<!-- Single Item -->
+                    <div class="col-md-3 col-sm-6 equal-height" style="height: 239px;">
+                        <div class="item java">
+                            <a href="https://www.tgpcet.com/MCA-dept.php">
+                                <div class="item-box">
+                                    <div class="icon">
+                                        <i class="fas fa-desktop"></i>
+                                    </div>
+                                    <div class="info">
+                                        <h5>MASTER IN COMPUTER APPLICATION</h5>
+                                        <p>
+                                            Intake <strong>300</strong>
+											<!--<strong> Choice Code: 415124110 </strong>-->
+                                        </p>
+                                        <span> Read More </span>
+                                    </div>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                    <!-- End Single Item -->
+					
+					<!-- Single Item -->
+                    <div class="col-md-3 col-sm-6 equal-height" style="height: 239px;">
+                        <div class="item casablanca">
+                            <a href="https://www.tgpcet.com/MBA-dept.php">
+                                <div class="item-box">
+                                    <div class="icon">
+                                        <i class="fas fa-user"></i>
+                                    </div>
+                                    <div class="info">
+                                        <h5> MASTER OF BUSINESS ADMINISTRATION </h5>
+                                        <p>
+                                            Intake <strong>300</strong>
+											<!--<strong> Choice Code: 415110110 </strong>-->
+                                        </p>
+                                        <span> Read More </span>
+                                    </div>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                    <!-- End Single Item -->
+					
+					<!-- Single Item -->
+                    <div class="col-md-3 col-sm-6 equal-height" style="height: 239px;">
+                        <div class="item emerald">
+                            <a href="https://www.tgpcet.com/Basic-Science-dept.php">
+                                <div class="item-box">
+                                    <div class="icon">
+                                        <i class="fas fa-building"></i>
+                                    </div>
+                                    <div class="info">
+                                        <h5> SCIENCE &amp; HUMANITIES  </h5>
+                                        <p>
+                                            Intake <strong>1020</strong>
+											<!--<strong> Choice Code: 415110110 </strong>-->
+                                        </p>
+                                        <span> Read More </span>
+                                    </div>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                    <!-- End Single Item -->
+					
+
+					
+				
+	
+			
+                </div>
+            </div>
+        </div>
+    </div>    
+    <!-- End PROGRAMS @ TGPCET  -->
+
+	
+
+    <!-- Start MANAGEMENT 
+    ============================================= -->
+		 <div class="advisor-area bg-blue default-padding bg-cover">
+        <div class="container">
+            <div class="row">
+                <div class="site-heading text-center">
+                    <div class="col-md-8 col-md-offset-2">
+                        <h2>MANAGEMENT</h2>
+                        <!--<p>
+                            Discourse assurance estimable applauded to so. Him everything melancholy uncommonly but solicitude inhabiting projection off. Connection stimulated estimating excellence an to impression. 
+                        </p> -->
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="advisor-items col-4 advisor-carousel owl-carousel owl-theme text-light text-center owl-loaded owl-drag">
+                        <!-- Single item -->
+                        
+                        <!-- End Single item -->
+						
+						<!-- Single item -->
+                        
+                        <!-- End Single item -->
+						
+                        <!-- Single item -->
+                        
+                        <!-- End Single item -->
+						
+                        <!-- Single item -->
+                        
+                        <!-- End Single item -->												         
+                    <div class="owl-stage-outer"><div class="owl-stage" style="transform: translate3d(-390px, 0px, 0px); transition: all 0.25s ease 0s; width: 1560px;"><div class="owl-item" style="width: 360px; margin-right: 30px;"><div class="item">
+                            <div class="thumb">
+                                <img src="./TGPCET_files/Mohan_Gaikwad.jpg" alt="Thumb">
+                                <!--<ul>
+                                    <li class="facebook">
+                                        <a href="#"><i class="fab fa-facebook-f"></i></a>
+                                    </li>
+                                    <li class="twitter">
+                                        <a href="#"><i class="fab fa-twitter"></i></a>
+                                    </li>
+                                    <li class="dribbble">
+                                        <a href="#"><i class="fab fa-dribbble"></i></a>
+                                    </li>
+                                    <li class="youtube">
+                                        <a href="#"><i class="fab fa-youtube"></i></a>
+                                    </li>
+                                </ul> -->
+                            </div>
+                            <div class="info">
+                                <span>Chairman, GPG </span>
+                                <h4> Dr. Mohan Gaikwad-Patil </h4>
+                            </div>
+                        </div></div><div class="owl-item active" style="width: 360px; margin-right: 30px;"><div class="item">
+                            <div class="thumb">
+                                <img src="./TGPCET_files/Akash-Gaikwad.jpg" alt="Thumb">
+                            </div>
+                            <div class="info">
+                                <span> Vice Chairman, GPG </span>
+                                <h4> Mr. Akash Gaikwad-Patil  </h4>
+                            </div>
+                        </div></div><div class="owl-item active" style="width: 360px; margin-right: 30px;"><div class="item">
+                            <div class="thumb">
+                                <img src="./TGPCET_files/2.jpg" alt="Thumb">
+                            </div>
+                            <div class="info">
+                                <span> President, GPGI </span>
+                                <h4> Dr. Anjali Patil-Gaikwad </h4>
+                            </div>
+                        </div></div><div class="owl-item active" style="width: 360px; margin-right: 30px;"><div class="item">
+                            <div class="thumb">
+                                <img src="./TGPCET_files/3.jpg" alt="Thumb">
+                            </div>
+                            <div class="info">
+                                <span> Treasurer, GPGI  </span>
+                                <h4>Dr. Sandeep Gaikwad </h4>
+                            </div>
+                        </div></div></div></div><div class="owl-nav disabled"><div class="owl-prev"><i class="fa fa-angle-left"></i></div><div class="owl-next"><i class="fa fa-angle-right"></i></div></div><div class="owl-dots"><div class="owl-dot"><span></span></div><div class="owl-dot active"><span></span></div></div></div>
+                </div>
+            </div>
+        </div>
+    </div>  
+    <!-- End MANAGEMENT -->
+	
+	<!-- Start MANAGEMENT 
+    ============================================= -->
+		 <div class="advisor-area bg-darkblue default-padding bg-cover">
+        <div class="container">
+            <div class="row">
+                <div class="site-heading text-center">
+                    <div class="col-md-8 col-md-offset-2">
+                        <h2>ACADEMIC PATRONS</h2>
+                        <!--<p>
+                            Discourse assurance estimable applauded to so. Him everything melancholy uncommonly but solicitude inhabiting projection off. Connection stimulated estimating excellence an to impression. 
+                        </p> -->
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="advisor-items col-4 advisor-carousel owl-carousel owl-theme text-light text-center owl-loaded owl-drag">
+                        <!-- Single item -->
+                        
+                        <!-- End Single item -->
+						
+						<!-- Single item -->
+                        
+                        <!-- End Single item -->
+						
+                        <!-- Single item -->
+                          
+                        <!-- End Single item -->
+						
+   											         
+                    <div class="owl-stage-outer"><div class="owl-stage" style="transform: translate3d(0px, 0px, 0px); transition: all 0s ease 0s; width: 1170px;"><div class="owl-item active" style="width: 360px; margin-right: 30px;"><div class="item">
+                            <div class="thumb">
+                                <img src="./TGPCET_files/P-L-Naktode.jpg" alt="Thumb">
+                            </div>
+                            <div class="info">
+                                <h4> Dr. P. L. Naktode </h4>
+								<span>Principal, TGPCET </span>
+                            </div>
+                        </div></div><div class="owl-item active" style="width: 360px; margin-right: 30px;"><div class="item">
+                            <div class="thumb">
+                                <img src="./TGPCET_files/Pragati_Patil.jpg" alt="Thumb">
+                            </div>
+                            <div class="info">
+                                <h4> Dr. Pragati Patil  </h4>
+								<span> Vice Principal, TGPCET </span>
+                            </div>
+                        </div></div><div class="owl-item active" style="width: 360px; margin-right: 30px;"><div class="item">
+                            <div class="thumb">
+                                <img src="./TGPCET_files/5.jpg" alt="Thumb">
+                            </div>
+                            <div class="info">
+                                <h4> Dr. Geeta Padole-Gaikwad </h4>
+								<span> Director, Admission Cell </span>
+                            </div>
+                        </div></div></div></div><div class="owl-nav disabled"><div class="owl-prev"><i class="fa fa-angle-left"></i></div><div class="owl-next"><i class="fa fa-angle-right"></i></div></div><div class="owl-dots disabled"><div class="owl-dot active"><span></span></div></div></div>
+                </div>
+            </div>
+        </div>
+    </div>  
+    <!-- End MANAGEMENT -->
+	
+	
+	<!-- Start Testimonials 
+    ============================================= -->
+    <div class="testimonials-area carousel-shadow bg-gray active-dots default-padding bg-cover" style="background-image: url(assets/img/shape-bg.png);">
+        <div class="container">
+            <div class="row">
+                <div class="site-heading text-center">
+                    <div class="col-md-6">
+                        <h2>Testimonials of Dignitaries </h2>
+                        <!--<p>
+                            Discourse assurance estimable applauded to so. Him everything melancholy uncommonly but solicitude inhabiting projection off. Connection stimulated estimating excellence an to impression. 
+                        </p> -->
+                    </div>
+					 <div class="col-md-6">
+                        <!--<h2> Institution Milestone </h2>
+                        <p>
+                            Discourse assurance estimable applauded to so. Him everything melancholy uncommonly but solicitude inhabiting projection off. Connection stimulated estimating excellence an to impression. 
+                        </p> -->
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-6">
+                    <div class="testimonial-items testimonial-carousel owl-carousel owl-theme text-center owl-loaded owl-drag">
+                        <!-- Single Item -->
+                        
+                        <!-- End Single Item -->
+                        <!-- Single Item -->
+                        
+                        <!-- End Single Item -->
+                        <!-- Single Item -->
+                        
+                        <!-- End Single Item -->
+						
+						<!-- Single Item -->
+                        
+                        <!-- End Single Item -->
+						
+						<!-- Single Item -->
+                        
+                        <!-- End Single Item -->
+						
+                    <div class="owl-stage-outer"><div class="owl-stage" style="transform: translate3d(-1755px, 0px, 0px); transition: all 0.25s ease 0s; width: 3218px;"><div class="owl-item cloned" style="width: 262.5px; margin-right: 30px;"><div class="item">
+                            <div class="icon">
+                                <i class="fas fa-quote-left"></i>
+                            </div>
+                            <div class="content">
+                                <p>
+                                   “The institute has a mission and commitment to fulfill it. The future of the campus is extremely bright."
+                                </p>          
+                                 <img src="./TGPCET_files/Mungekar.jpg" alt="Thumb">
+                            </div>
+                            <div class="author">
+                                <h4> Hon’ble Dr. B. L. Mungekar </h4>
+                                <span> Former MP &amp; Member Planning Commission of India  </span>
+                            </div>
+                        </div></div><div class="owl-item cloned" style="width: 262.5px; margin-right: 30px;"><div class="item">
+                            <div class="icon">
+                                <i class="fas fa-quote-left"></i>
+                            </div>
+                            <div class="content">
+                                <p>
+                                   “The management is visionary and professional in nature. The facilities are up to the mark. The discipline is very good and faculties are dedicated."
+                                </p>          
+                                 <img src="./TGPCET_files/Vilas_Sapkal.jpg" alt="Thumb">
+                            </div>
+                            <div class="author">
+                                <h4> Hon'ble Dr. Vilas Sapkal </h4>
+                                <span> Former Vice Chancellor, RTM Nagpur, University  </span>
+                            </div>
+                        </div></div><div class="owl-item cloned" style="width: 262.5px; margin-right: 30px;"><div class="item">
+                            <div class="icon">
+                                <i class="fas fa-quote-left"></i>
+                            </div>
+                            <div class="content">
+                                <p>
+                                   “Outgoing Library facility well designed to suit students, faculty and
+guests of all age group. It resembles facilities available at most recognized institutions. I am sure students will spend more time here to grow knowledge."
+                                </p>          
+                                 <img src="./TGPCET_files/Satish_Wate.jpg" alt="Thumb">
+                            </div>
+                            <div class="author">
+                                <h4> Hon'ble Dr. Satish Wate </h4>
+                                <span> Former Director, National Environment Engineering Research Institute (NEERI), Nagpur  </span>
+                            </div>
+                        </div></div><div class="owl-item" style="width: 262.5px; margin-right: 30px;"><div class="item">
+                            <div class="icon">
+                                <i class="fas fa-quote-left"></i>
+                            </div>
+                            <div class="content">
+                                <p>
+                                    The college has a far-reaching goal and is emerging as a
+leading engineering college of Vidarbha. I was particularly impressed by the discipline of the instiute and its academic and research aspiration.
+                                </p>
+                                 <img src="./TGPCET_files/Vijay_Bhatkar.jpg" alt="Vijay_Bhatkar"> 
+                            </div>
+                            <div class="author">								
+                                <h4> Hon’ble Padmashri Dr. Vijay Bhatkar </h4>
+                                <span> Father of Indian Super Computer </span>
+                            </div>
+                        </div></div><div class="owl-item" style="width: 262.5px; margin-right: 30px;"><div class="item">
+                            <div class="icon">
+                                <i class="fas fa-quote-left"></i>
+                            </div>
+                            <div class="content">
+                                <p>
+                                    Good quality of education and good dedicated management.
+                                </p>
+                                 <img src="./TGPCET_files/Nitinji_Gadkari.jpg" alt="Thumb"> 
+                            </div>
+                            <div class="author">
+                                <h4> Hon'ble Shri. Nitinji Gadkari </h4>
+                                <span> Cabinet Minister, Road Transport and Highways Shipping, Govt. of India </span>
+                            </div>
+                        </div></div><div class="owl-item" style="width: 262.5px; margin-right: 30px;"><div class="item">
+                            <div class="icon">
+                                <i class="fas fa-quote-left"></i>
+                            </div>
+                            <div class="content">
+                                <p>
+                                   “The institute has a mission and commitment to fulfill it. The future of the campus is extremely bright."
+                                </p>          
+                                 <img src="./TGPCET_files/Mungekar.jpg" alt="Thumb">
+                            </div>
+                            <div class="author">
+                                <h4> Hon’ble Dr. B. L. Mungekar </h4>
+                                <span> Former MP &amp; Member Planning Commission of India  </span>
+                            </div>
+                        </div></div><div class="owl-item active" style="width: 262.5px; margin-right: 30px;"><div class="item">
+                            <div class="icon">
+                                <i class="fas fa-quote-left"></i>
+                            </div>
+                            <div class="content">
+                                <p>
+                                   “The management is visionary and professional in nature. The facilities are up to the mark. The discipline is very good and faculties are dedicated."
+                                </p>          
+                                 <img src="./TGPCET_files/Vilas_Sapkal.jpg" alt="Thumb">
+                            </div>
+                            <div class="author">
+                                <h4> Hon'ble Dr. Vilas Sapkal </h4>
+                                <span> Former Vice Chancellor, RTM Nagpur, University  </span>
+                            </div>
+                        </div></div><div class="owl-item active" style="width: 262.5px; margin-right: 30px;"><div class="item">
+                            <div class="icon">
+                                <i class="fas fa-quote-left"></i>
+                            </div>
+                            <div class="content">
+                                <p>
+                                   “Outgoing Library facility well designed to suit students, faculty and
+guests of all age group. It resembles facilities available at most recognized institutions. I am sure students will spend more time here to grow knowledge."
+                                </p>          
+                                 <img src="./TGPCET_files/Satish_Wate.jpg" alt="Thumb">
+                            </div>
+                            <div class="author">
+                                <h4> Hon'ble Dr. Satish Wate </h4>
+                                <span> Former Director, National Environment Engineering Research Institute (NEERI), Nagpur  </span>
+                            </div>
+                        </div></div><div class="owl-item cloned" style="width: 262.5px; margin-right: 30px;"><div class="item">
+                            <div class="icon">
+                                <i class="fas fa-quote-left"></i>
+                            </div>
+                            <div class="content">
+                                <p>
+                                    The college has a far-reaching goal and is emerging as a
+leading engineering college of Vidarbha. I was particularly impressed by the discipline of the instiute and its academic and research aspiration.
+                                </p>
+                                 <img src="./TGPCET_files/Vijay_Bhatkar.jpg" alt="Vijay_Bhatkar"> 
+                            </div>
+                            <div class="author">								
+                                <h4> Hon’ble Padmashri Dr. Vijay Bhatkar </h4>
+                                <span> Father of Indian Super Computer </span>
+                            </div>
+                        </div></div><div class="owl-item cloned" style="width: 262.5px; margin-right: 30px;"><div class="item">
+                            <div class="icon">
+                                <i class="fas fa-quote-left"></i>
+                            </div>
+                            <div class="content">
+                                <p>
+                                    Good quality of education and good dedicated management.
+                                </p>
+                                 <img src="./TGPCET_files/Nitinji_Gadkari.jpg" alt="Thumb"> 
+                            </div>
+                            <div class="author">
+                                <h4> Hon'ble Shri. Nitinji Gadkari </h4>
+                                <span> Cabinet Minister, Road Transport and Highways Shipping, Govt. of India </span>
+                            </div>
+                        </div></div><div class="owl-item cloned" style="width: 262.5px; margin-right: 30px;"><div class="item">
+                            <div class="icon">
+                                <i class="fas fa-quote-left"></i>
+                            </div>
+                            <div class="content">
+                                <p>
+                                   “The institute has a mission and commitment to fulfill it. The future of the campus is extremely bright."
+                                </p>          
+                                 <img src="./TGPCET_files/Mungekar.jpg" alt="Thumb">
+                            </div>
+                            <div class="author">
+                                <h4> Hon’ble Dr. B. L. Mungekar </h4>
+                                <span> Former MP &amp; Member Planning Commission of India  </span>
+                            </div>
+                        </div></div></div></div><div class="owl-nav disabled"><div class="owl-prev"><i class="fa fa-angle-left"></i></div><div class="owl-next"><i class="fa fa-angle-right"></i></div></div><div class="owl-dots"><div class="owl-dot"><span></span></div><div class="owl-dot active"><span></span></div><div class="owl-dot"><span></span></div></div></div> 
+                </div>
+				<div class="col-md-6">
+                    <!-- Start College Video & Important Links
+    ============================================= -->
+    <div class="weekly-top-items carousel-shadow pt-3">
+        <div class="container">
+				<div class="row">
+					<div class="col-md-6">
+						<div class="top-courses">
+							<div class="heading">
+                            <h4><!--Top Courses --> <strong>Institutional Milestones</strong></h4>
+                        </div>
+                        <div class="top-course-items top-courses-carousel owl-carousel owl-theme owl-loaded owl-drag">
+                            
+							<!-- Start Single Item -->
+                             
+                            <!-- End Single Item -->
+							
+							
+							<!-- Start Single Item -->
+                             
+                            <!-- End Single Item -->
+							
+							<!-- Start Single Item -->
+                             
+                            <!-- End Single Item -->
+							
+							<!-- Start Single Item -->
+                             
+                            <!-- End Single Item -->
+							
+							
+							<!-- Start Single Item -->
+                             
+                            <!-- End Single Item -->
+							
+							<!-- Start Single Item -->
+                             
+                            <!-- End Single Item -->
+							
+							
+							<!-- Start Single Item -->
+                             
+                            <!-- End Single Item -->
+							
+							<!-- Start Single Item -->
+                             
+                            <!-- End Single Item -->
+							
+							<!-- Start Single Item -->
+                             
+                            <!-- End Single Item -->
+							
+							<!-- Start Single Item -->
+                             
+                            <!-- End Single Item -->
+							
+							<!-- Start Single Item -->
+                             
+                            <!-- End Single Item -->
+							
+							<!-- Start Single Item -->
+                             
+                            <!-- End Single Item -->
+							
+							<!-- Start Single Item -->
+                             
+                            <!-- End Single Item -->
+							
+
+                        <div class="owl-stage-outer"><div class="owl-stage" style="transform: translate3d(-2260px, 0px, 0px); transition: all 0.25s ease 0s; width: 3673px;"><div class="owl-item" style="width: 252.5px; margin-right: 30px;"><div class="item">
+                                <div class="thumb">
+										 <img src="./TGPCET_files/13.jpg" alt="Thumb"> 
+                                </div> 
+                               <div class="info">
+                                     <h5>
+                                        <a href="https://www.tgpcet.com/index.php#"> "Best Student Chapter (Degree Level)" by ISTE Maharashtra-Goa Section Award - 2023 </a>
+                                    </h5> 
+                                </div> 
+                            </div></div><div class="owl-item" style="width: 252.5px; margin-right: 30px;"><div class="item">
+                                <div class="thumb">
+										 <img src="./TGPCET_files/11.jpg" alt="Thumb"> 
+                                </div> 
+                               <div class="info">
+                                     <h5>
+                                        <a href="https://www.tgpcet.com/index.php#"> Institute signing MoU with EduSkill.  </a>
+                                    </h5> 
+                                </div> 
+                            </div></div><div class="owl-item" style="width: 252.5px; margin-right: 30px;"><div class="item">
+                                <div class="thumb">
+										 <img src="./TGPCET_files/10.jpg" alt="Thumb"> 
+                                </div> 
+                               <div class="info">
+                                     <h5>
+                                        <a href="https://www.tgpcet.com/index.php#"> Institute been awarded the prestigious AA+ rank among all engineering colleges in India by Careers 360! </a>
+                                    </h5> 
+                                </div> 
+                            </div></div><div class="owl-item" style="width: 252.5px; margin-right: 30px;"><div class="item">
+                                <div class="thumb">
+										 <img src="./TGPCET_files/12.jpg" alt="Thumb"> 
+                                </div> 
+                               <div class="info">
+                                     <h5>
+                                        <a href="https://www.tgpcet.com/index.php#"> MoU Signing between TGPCET and Govt. college of Engineering, Chandrapur - Tata Technologies Ltd. </a>
+                                    </h5> 
+                                </div> 
+                            </div></div><div class="owl-item" style="width: 252.5px; margin-right: 30px;"><div class="item">
+                                <div class="thumb">
+										 <img src="./TGPCET_files/2(1).jpg" alt="Thumb"> 
+                                </div> 
+                               <div class="info">
+                                     <h5>
+                                        <a href="https://www.tgpcet.com/index.php#"> Receiving Excellence Award by hands of Hon. Dr. Shashi Tharoor </a>
+                                    </h5> 
+                                </div> 
+                            </div></div><div class="owl-item" style="width: 252.5px; margin-right: 30px;"><div class="item">
+                                <div class="thumb">
+										 <img src="./TGPCET_files/1.jpg" alt="Thumb"> 
+                                </div> 
+                               <div class="info">
+                                     <h5>
+                                        <a href="https://www.tgpcet.com/index.php#"> Dr. Sandeep Gaikwad felicitated in the "Guruvandana Satkar Samaroh" </a>
+                                    </h5> 
+                                </div> 
+                            </div></div><div class="owl-item" style="width: 252.5px; margin-right: 30px;"><div class="item">
+                                <div class="thumb">
+										 <img src="./TGPCET_files/3(1).jpg" alt="Thumb"> 
+                                </div> 
+                               <div class="info">
+                                     <h5>
+                                        <a href="https://www.tgpcet.com/index.php#"> Education Leadership Award Presented by Dewang Mehta </a>
+                                    </h5> 
+                                </div> 
+                            </div></div><div class="owl-item" style="width: 252.5px; margin-right: 30px;"><div class="item">
+                                <div class="thumb">
+										 <img src="./TGPCET_files/4.jpg" alt="Thumb"> 
+                                </div> 
+                               <div class="info">
+                                     <h5>
+                                        <a href="https://www.tgpcet.com/index.php#"> Accredited with NAAC A+ Grade (3.32 CGPA) </a>
+                                    </h5> 
+                                </div> 
+                            </div></div><div class="owl-item active" style="width: 252.5px; margin-right: 30px;"><div class="item">
+                                <div class="thumb">
+										 <img src="./TGPCET_files/5(1).jpg" alt="Thumb"> 
+                                </div> 
+                               <div class="info">
+                                     <h5>
+                                        <a href="https://www.tgpcet.com/index.php#"> Confronted Autonomous Status From AY 2021-22 </a>
+                                    </h5> 
+                                </div> 
+                            </div></div><div class="owl-item active" style="width: 252.5px; margin-right: 30px;"><div class="item">
+                                <div class="thumb">
+										 <img src="./TGPCET_files/6(1).jpg" alt="Thumb"> 
+                                </div> 
+                               <div class="info">
+                                     <h5>
+                                        <a href="https://www.tgpcet.com/index.php#"> Prof. Sandeep Gaikwad elected as SENATE Member RTMNU, Nagpur </a>
+                                    </h5> 
+                                </div> 
+                            </div></div><div class="owl-item" style="width: 252.5px; margin-right: 30px;"><div class="item">
+                                <div class="thumb">
+										 <img src="./TGPCET_files/7.jpg" alt="Thumb"> 
+                                </div> 
+                               <div class="info">
+                                     <h5>
+                                        <a href="https://www.tgpcet.com/index.php#"> Dr. Shubhangi Gondane, ISTE Award for Best Women Teaching Faculty (Engineering) 2022 </a>
+                                    </h5> 
+                                </div> 
+                            </div></div><div class="owl-item" style="width: 252.5px; margin-right: 30px;"><div class="item">
+                                <div class="thumb">
+										 <img src="./TGPCET_files/9.jpg" alt="Thumb"> 
+                                </div> 
+                               <div class="info">
+                                     <h5>
+                                        <a href="https://www.tgpcet.com/index.php#"> ISTE Award for Best Knowledge Center (Library) Award 2022</a>
+                                    </h5> 
+                                </div> 
+                            </div></div><div class="owl-item" style="width: 252.5px; margin-right: 30px;"><div class="item">
+                                <div class="thumb">
+										 <img src="./TGPCET_files/8.jpg" alt="Thumb"> 
+                                </div> 
+                               <div class="info">
+                                     <h5>
+                                        <a href="https://www.tgpcet.com/index.php#"> Gurugaurav Award for Excellent Contribution in the field of Education</a>
+                                    </h5> 
+                                </div> 
+                            </div></div></div></div><div class="owl-nav"><div class="owl-prev"><i class="fa fa-angle-left"></i></div><div class="owl-next"><i class="fa fa-angle-right"></i></div></div><div class="owl-dots disabled"></div></div> 
+                    </div> 
+					</div>
+
+										
+                    
+                </div>
+            </div>
+    </div>
+    
+    <!-- End College Video & Important Links --> 
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- End Testimonials -->
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+        <!-- Start College Video & Important Links
+    ============================================= -->
+    <div class="weekly-top-items carousel-shadow default-padding">
+        <div class="container">
+				<div class="row">
+					<div class="col-md-6">
+						<div class="top-courses">
+							<div class="heading">
+								<h4><!--Top Courses --> <strong> College Videos </strong></h4>
+							</div>
+							<div class="top-courses-carousel owl-carousel owl-theme owl-loaded owl-drag">
+                            
+							
+							
+							<!-- Single Item -->
+                            
+                            <!-- Single Item -->
+							
+							
+							<!-- Single Item -->
+                            
+                            <!-- Single Item -->
+							
+
+							
+							<!-- Single Item -->
+                            <!--<div class="item">
+                                <div class="thumb">
+                                    <iframe class="video-iframe" src="https://www.youtube.com/embed/wS2XHEunWx4" width="250" height="150" frameborder="0" allowfullscreen></iframe>
+                                </div>
+                            </div> -->
+                            <!-- Single Item -->
+                                                    
+                        <div class="owl-stage-outer"><div class="owl-stage" style="transform: translate3d(0px, 0px, 0px); transition: all 0s ease 0s; width: 565px;"><div class="owl-item active" style="width: 252.5px; margin-right: 30px;"><div class="item">
+                                <div class="thumb">
+                                    <iframe width="250" height="150" src="./TGPCET_files/YjGbOYbezsk.html" frameborder="0" allowfullscreen=""></iframe>
+                                </div>
+                            </div></div><div class="owl-item active" style="width: 252.5px; margin-right: 30px;"><div class="item">
+                                <div class="thumb">
+                                    <iframe width="250" height="150" src="./TGPCET_files/8Y4kl4_Exow.html" frameborder="0" allowfullscreen=""></iframe>
+                                </div>
+                            </div></div></div></div><div class="owl-nav disabled"><div class="owl-prev disabled"><i class="fa fa-angle-left"></i></div><div class="owl-next disabled"><i class="fa fa-angle-right"></i></div></div><div class="owl-dots disabled"></div></div>   
+						</div>
+					</div>
+					<div class="col-md-6">
+						<div class="top-author">
+							<h4> Important Links </h4>
+							</div>
+											<!-- Start Course List -->
+																				<div class="course-list-items acd-items acd-arrow">
+                                            <div class="panel-group symb" id="accordion">
+                                                
+												<div class="panel panel-default">
+                                                    <div class="panel-heading">
+                                                        <h4 class="panel-title">
+                                                            <a data-toggle="collapse" data-parent="#accordion" href="https://www.tgpcet.com/index.php#ac1">
+                                                                <strong class="number">01</strong> NIRF
+                                                            </a>
+                                                        </h4>
+                                                    </div>
+                                                    <div id="ac1" class="panel-collapse collapse ">
+                                                        <div class="panel-body">
+                                                            <ul>
+                                                                <li>
+                                                                    <div class="title">                                                                   
+                                                                           <a href="https://www.tgpcet.com/assets/NIRF/NIRF-ENGINEERING-2024.pdf" class="btn btn-warning text-white btn-sm"> NIRF ENGINEERING  </a> 
+																		   <a href="https://www.tgpcet.com/assets/NIRF/NIRF-MANAGEMENT-2024.pdf" class="btn btn-warning text-white btn-sm"> NIRF MANAGEMENT  </a> 
+                                                                        </div>
+                                                                    </li></ul></div>
+                                                                                                                                
+                                                            
+                                                        </div>
+                                                </div>
+												
+												<div class="panel panel-default">
+                                                    <div class="panel-heading">
+                                                        <h4 class="panel-title">
+                                                            <a data-toggle="collapse" data-parent="#accordion" href="https://www.tgpcet.com/index.php#ac2">
+                                                                <strong class="number">02</strong> AICTE PRERANA Bills-Vouchers
+                                                            </a>
+                                                        </h4>
+                                                    </div>
+                                                    <div id="ac2" class="panel-collapse collapse ">
+                                                        <div class="panel-body">
+                                                            <ul>
+                                                                <li>
+                                                                    <div class="title">                                                                   
+                                                                           <a href="https://www.tgpcet.com/assets/AICTE-PRERANA-Bills-Vouchers/2020-21.pdf" class="btn btn-warning text-white btn-sm"> 2020-21  </a> 
+																		   <a href="https://www.tgpcet.com/assets/AICTE-PRERANA-Bills-Vouchers/2019-20.pdf" class="btn btn-warning text-white btn-sm"> 2019-20  </a> 
+                                                                        </div>
+                                                                    </li></ul></div>
+                                                                                                                                
+                                                            
+                                                        </div>
+                                                </div>
+													
+													<div class="panel panel-default">
+														<div class="panel-heading">
+															<h4 class="panel-title">
+																<a data-toggle="collapse" data-parent="#accordion" href="https://www.tgpcet.com/index.php#ac3">
+																	<strong class="number">03</strong> AICTE Approvals
+																</a>
+															</h4>
+														</div>
+														<div id="ac3" class="panel-collapse collapse ">
+																<div class="panel-body">
+																
+																				<p> 
+																					<a href="https://www.tgpcet.com/assets/AICTE-APPROVELS/AICTE-APPROVALS-2024-25.pdf" class="btn btn-warning text-white btn-sm">  2024-25 </a>  
+																					<a href="https://www.tgpcet.com/assets/AICTE-APPROVELS/AICTE-APPROVALS-2023-24.pdf" class="btn btn-warning text-white btn-sm">  2023-24 </a>  
+																					<a href="https://www.tgpcet.com/assets/AICTE-APPROVELS/AICTE-APPROVALS-2022-23.pdf" class="btn btn-warning text-white btn-sm">  2022-23 </a>  
+																					<a href="https://www.tgpcet.com/assets/AICTE-APPROVELS/AICTE-APPROVALS-2021-22.pdf" class="btn btn-warning text-white btn-sm">  2021-22 </a>  
+																					<a href="https://www.tgpcet.com/assets/AICTE-APPROVELS/AICTE-APPROVALS-2020-21.pdf" class="btn btn-warning text-white btn-sm">  2020-21 </a>  
+																					<a href="https://www.tgpcet.com/assets/AICTE-APPROVELS/AICTE-APPROVALS-2019-20.pdf" class="btn btn-warning text-white btn-sm">  2019-20 </a>  
+																				</p>
+																
+																				<p>
+																					<a href="https://www.tgpcet.com/assets/AICTE-APPROVELS/AICTE-APPROVALS-2018-19.pdf" class="btn btn-warning text-white btn-sm">  2018-19 </a> 
+																					<a href="https://www.tgpcet.com/assets/AICTE-APPROVELS/AICTE-APPROVALS-2017-18.pdf" class="btn btn-warning text-white btn-sm"> 2017-18 </a> 
+																					<a href="https://www.tgpcet.com/assets/AICTE-APPROVELS/AICTE-APPROVALS-2016-17.pdf" class="btn btn-warning text-white btn-sm">  2016-17 </a>
+																					<a href="https://www.tgpcet.com/assets/AICTE-APPROVELS/AICTE-APPROVALS-2015-16.pdf" class="btn btn-warning text-white btn-sm">  2015-16</a> 
+																					<a href="https://www.tgpcet.com/assets/AICTE-APPROVELS/AICTE-APPROVALS-2014-15.pdf" class="btn btn-warning text-white btn-sm">  2014-15 </a> 
+																					<a href="https://www.tgpcet.com/assets/AICTE-APPROVELS/AICTE-APPROVALS-2013-14.pdf" class="btn btn-warning text-white btn-sm">  2013-14</a>																
+																				</p>
+																				
+																				<p>
+																					<a href="https://www.tgpcet.com/assets/AICTE-APPROVELS/AICTE-APPROVALS-2012-13.pdf" class="btn btn-warning text-white btn-sm">  2012-13</a>
+																					<a href="https://www.tgpcet.com/assets/AICTE-APPROVELS/AICTE-APPROVALS-2011-12.pdf" class="btn btn-warning text-white btn-sm">  2011-12 </a>
+																					<a href="https://www.tgpcet.com/assets/AICTE-APPROVELS/AICTE-APPROVALS-2010-11.pdf" class="btn btn-warning text-white btn-sm">  2010-11 </a> 
+																					<a href="https://www.tgpcet.com/assets/AICTE-APPROVELS/AICTE-APPROVALS-2009-10.pdf" class="btn btn-warning text-white btn-sm">  2009-10 </a> 
+																					<a href="https://www.tgpcet.com/assets/AICTE-APPROVELS/AICTE-MCA-2008.pdf" class="btn btn-warning text-white btn-sm">  MCA-2008</a>
+																					<a href="https://www.tgpcet.com/assets/AICTE-APPROVELS/AICTE-APPROVALS-2007.pdf" class="btn btn-warning text-white btn-sm"> 2007</a>																
+																				</p>
+																	
+																</div>
+															</div>
+                                                    </div>
+													
+													<div class="panel panel-default">
+														<div class="panel-heading">
+															<h4 class="panel-title">
+																<a data-toggle="collapse" data-parent="#accordion" href="https://www.tgpcet.com/index.php#ac4">
+																	<strong class="number">04</strong> Mandatory Disclosure
+																</a>
+															</h4>
+														</div>
+														<div id="ac4" class="panel-collapse collapse ">
+															<div class="panel-body">
+																<ul>
+																   <li>
+																		<div class="title">                                                                   
+																			   <a href="https://www.tgpcet.com/Mandatory-Disclosure/TGPCET-Mandatory-Disclosure-2023-24.pdf" class="btn btn-warning text-white btn-sm">  Mandatory Disclosure 2023-24  </a>
+																			   <!--<a href="#" class="btn btn-warning text-white btn-sm">  Mandatory Disclosure 2023-24  </a> -->
+																			</div>
+																		</li></ul></div>
+																	                                                                
+																
+															</div>
+                                                    </div>
+													
+													<div class="panel panel-default">
+														<div class="panel-heading">
+															<h4 class="panel-title">
+																<a data-toggle="collapse" data-parent="#accordion" href="https://www.tgpcet.com/index.php#ac5">
+																	<strong class="number">05</strong> HR Policy
+																</a>
+															</h4>
+														</div>
+														<div id="ac5" class="panel-collapse collapse ">
+															<div class="panel-body">
+																<ul>
+																   <li>
+																		<div class="title">                                                                                                                                            
+																			   <a href="https://www.tgpcet.com/assets/HR-Policy/HR-Policy.pdf" target="_blank" class="btn btn-warning text-white btn-sm"> HR Policy</a> &nbsp;
+																			</div>
+																	</li>                                                                
+																</ul>
+															</div>
+														</div>
+                                                    </div>
+													
+													<div class="panel panel-default">
+														<div class="panel-heading">
+															<h4 class="panel-title">
+																<a data-toggle="collapse" data-parent="#accordion" href="https://www.tgpcet.com/index.php#ac6">
+																	<strong class="number">06</strong> Academic Regulation
+																</a>
+															</h4>
+														</div>
+														<div id="ac6" class="panel-collapse collapse ">
+															<div class="panel-body">
+																<ul>
+																	<li>
+																		<div class="title">                                                                                                                                        
+																			   <p> <a href="https://www.tgpcet.com/assets/Rules-&amp;-Regulations/BTech_R22_CBCS_Regulations.pdf" target="_blank" class="btn btn-warning text-white btn-sm"> BTech_R22_CBCS_Regulations </a> </p>
+																			   <p> <a href="https://www.tgpcet.com/assets/Rules-&amp;-Regulations/MBA_R22_CBCS_Regulations.pdf" target="_blank" class="btn btn-warning text-white btn-sm"> MBA_R22_CBCS_Regulations</a> </p>
+																			   <p> <a href="https://www.tgpcet.com/assets/Rules-&amp;-Regulations/MCA_R22_CBCS_Regulations.pdf" target="_blank" class="btn btn-warning text-white btn-sm"> MCA_R22_CBCS_Regulations</a> </p>
+																			   <p> <a href="https://www.tgpcet.com/assets/Rules-&amp;-Regulations/MTech_R22_CBCS_Regulations.pdf" target="_blank" class="btn btn-warning text-white btn-sm"> MTech_R22_CBCS_Regulations</a> </p>
+																			     																			
+																		</div>
+																	</li>
+																	
+																	<li>
+																		<div class="title">                                                                                                                                        
+																			   <p> <a href="https://www.tgpcet.com/assets/Rules-&amp;-Regulations/B-Tech-Academic-Rules&amp;Regulations.pdf" target="_blank" class="btn btn-warning text-white btn-sm"> B.Tech Academic Rules &amp; Regulations </a> </p>
+																			     <p> <a href="https://www.tgpcet.com/assets/Rules-&amp;-Regulations/MBA-Academic-Rules&amp;Regulations.pdf" target="_blank" class="btn btn-warning text-white btn-sm"> MBA Academic Rules &amp; Regulations </a>  </p>
+																			     <p> <a href="https://www.tgpcet.com/assets/Rules-&amp;-Regulations/MCA-Academic-Rules&amp;Regulations.pdf" target="_blank" class="btn btn-warning text-white btn-sm"> MCA Academic Rules &amp; Regulations </a>  </p>
+																			     <p> <a href="https://www.tgpcet.com/assets/Rules-&amp;-Regulations/M-Tech-Academic-Rules&amp;Regulations.pdf" target="_blank" class="btn btn-warning text-white btn-sm"> M.Tech Academic Rules &amp; Regulations </a>  </p>
+																			   <a href="https://www.tgpcet.com/assets/PDF/Academic-Policy-2018-19.pdf" target="_blank" class="btn btn-warning text-white btn-sm"> Academic Policy (Non-Autonomous) </a> &nbsp;
+																			</div>
+																		</li></ul></div>
+																	                                                                
+																
+															</div>
+                                                    </div>
+													
+													<div class="panel panel-default">
+														<div class="panel-heading">
+															<h4 class="panel-title">
+																<a data-toggle="collapse" data-parent="#accordion" href="https://www.tgpcet.com/index.php#ac7">
+																	<strong class="number">07</strong> Academic Guidelines
+																</a>
+															</h4>
+														</div>
+														<div id="ac7" class="panel-collapse collapse ">
+															<div class="panel-body">
+																<ul>
+																   <li>
+																		<div class="title">                                                                                                                                        
+																			    <p> <a href="https://www.tgpcet.com/assets/Academic_Guidelines/Guidelines_for_Micro_Project.pdf" target="_blank" class="btn btn-warning text-white btn-sm"> Guidelines for Micro Project </a> </p>
+																				<p> <a href="https://www.tgpcet.com/assets/Academic_Guidelines/PG_Open_Electives.pdf" target="_blank" class="btn btn-warning text-white btn-sm"> PG Open Electives </a> </p>
+																			    <p> <a href="https://www.tgpcet.com/assets/Academic_Guidelines/Guidelines_for_Offering_MOOCs_to_PG_Programmes.pdf" target="_blank" class="btn btn-warning text-white btn-sm"> Offering MOOCs to PG Programmes </a> </p>
+																				<p> <a href="https://www.tgpcet.com/assets/Academic_Guidelines/Honours_and_Minor_Degree_in_UG_Programme.pdf" target="_blank" class="btn btn-warning text-white btn-sm"> Honours and Minor Degree in UG Programme </a> </p>																				
+																				<p> <a href="https://www.tgpcet.com/assets/Academic_Guidelines/List_of_Honours_&amp;_Minor_Course_Domain_III_Semester_UG.pdf" target="_blank" class="btn btn-warning text-white btn-sm"> List of Honours &amp; Minor Course Domain III Semester UG </a> </p>
+																			</div>
+																		</li></ul></div>
+																	                                                                
+																
+															</div>
+                                                    </div>
+													
+													
+													
+													<div class="panel panel-default">
+														<div class="panel-heading">
+															<h4 class="panel-title">
+																<a data-toggle="collapse" data-parent="#accordion" href="https://www.tgpcet.com/index.php#ac8">
+																	<strong class="number">08</strong> Training &amp; Placement
+																</a>
+															</h4>
+														</div>
+														<div id="ac8" class="panel-collapse collapse ">
+															<div class="panel-body">
+																<p>   </p>
+																<p> Dr. Nitin Chore, Dean Training &amp; Placement </p>
+																<p> Mobile No. 90215 09163 </p>
+																<p> Email : deantnp@tgpcet.com	 </p>													
+															</div>
+														</div>
+													</div>
+													
+													<div class="panel panel-default">
+														<div class="panel-heading">
+															<h4 class="panel-title">
+																<a data-toggle="collapse" data-parent="#accordion" href="https://www.tgpcet.com/index.php#ac9">
+																	<strong class="number">09</strong>24x7 Women Helpline Number
+																</a>
+															</h4>
+														</div>
+														<div id="ac9" class="panel-collapse collapse ">
+															<div class="panel-body">
+																<p> 
+
+																</p>
+																<p>
+																	</p><div class="thumb">
+																		<img src="./TGPCET_files/Priyanka_Petkar.jpg" width="200px" height="200px" alt="Thumb">
+																	</div>
+																<p></p>
+																<p><b> &nbsp; &nbsp;  &nbsp;  Prof. Priyanka Petkar </b></p>
+																<p>  &nbsp;  &nbsp;  &nbsp; +91 - 77680 77766 </p>																															
+															</div>
+														</div>
+													</div>
+													
+													<div class="panel panel-default">
+														<div class="panel-heading">
+															<h4 class="panel-title">
+																<a data-toggle="collapse" data-parent="#accordion" href="https://www.tgpcet.com/index.php#ac10">
+																	<strong class="number">10</strong> Fees Regulating Authority 
+																</a>
+															</h4>
+														</div>
+														<div id="ac10" class="panel-collapse collapse">
+															<div class="panel-body">
+																<ul>
+																   <li>
+																		<div class="title">                                                                                                                                            
+																			<p> <a href="https://www.tgpcet.com/assets/FRA/FRA_FEES_BE_2020-21.pdf" target="_blank" class="btn btn-warning text-white btn-sm">  FRA_FEES_BE_2020-21  </a> </p>
+																			<p> <a href="https://www.tgpcet.com/assets/FRA/FRA_FEES_BE_2021-22.pdf" target="_blank" class="btn btn-warning text-white btn-sm">  FRA_FEES_BE_2021-22  </a> </p>
+																			<p> <a href="https://www.tgpcet.com/assets/FRA/FRA_FEES_BE_2022-23.pdf" target="_blank" class="btn btn-warning text-white btn-sm">  FRA_FEES_BE_2022-23  </a> </p>
+																			<p> <a href="https://www.tgpcet.com/assets/FRA/FRA_FEES_MBA_2020-21.pdf" target="_blank" class="btn btn-warning text-white btn-sm">  FRA_FEES_MBA_2020-21  </a> </p>
+																			<p> <a href="https://www.tgpcet.com/assets/FRA/FRA_FEES_MBA_2021-22.pdf" target="_blank" class="btn btn-warning text-white btn-sm">  FRA_FEES_MBA_2021-22  </a> </p>
+																			<p> <a href="https://www.tgpcet.com/assets/FRA/FRA_FEES_MBA_2022-23.pdf" target="_blank" class="btn btn-warning text-white btn-sm">  FRA_FEES_MBA_2022-23  </a> </p>
+																			<p> <a href="https://www.tgpcet.com/assets/FRA/FRA_FEES_MCA_2020-21.pdf" target="_blank" class="btn btn-warning text-white btn-sm">  FRA_FEES_MCA_2020-21  </a> </p>
+																			<p> <a href="https://www.tgpcet.com/assets/FRA/FRA_FEES_MCA_2021-22.pdf" target="_blank" class="btn btn-warning text-white btn-sm">  FRA_FEES_MCA_2021-22  </a> </p>
+																			<p> <a href="https://www.tgpcet.com/assets/FRA/FRA_FEES_MCA_2022-23.pdf" target="_blank" class="btn btn-warning text-white btn-sm">  FRA_FEES_MCA_2022-23  </a> </p>
+																			<p> <a href="https://www.tgpcet.com/assets/FRA/FRA_FEES_MTECH_2020-21.pdf" target="_blank" class="btn btn-warning text-white btn-sm">  FRA_FEES_MTECH_2020-21  </a> </p>
+																			<p> <a href="https://www.tgpcet.com/assets/FRA/FRA_FEES_MTECH_2021-22.pdf" target="_blank" class="btn btn-warning text-white btn-sm">  FRA_FEES_MTECH_2021-22  </a> </p>
+																			<p> <a href="https://www.tgpcet.com/assets/FRA/FRA_FEES_MTECH_2022-23.pdf" target="_blank" class="btn btn-warning text-white btn-sm">  FRA_FEES_MTECH_2022-23  </a> </p>
+																		</div>
+																	</li>                                                                
+																</ul>
+															</div>
+														</div>
+													</div>
+													
+													<div class="panel panel-default">
+                                                    <div class="panel-heading">
+                                                        <h4 class="panel-title">
+                                                            <a data-toggle="collapse" data-parent="#accordion" href="https://www.tgpcet.com/index.php#ac11">
+                                                                <strong class="number">11</strong> Feedback Facility for Student and Faculty 
+                                                            </a>
+                                                        </h4>
+                                                    </div>
+                                                    <div id="ac11" class="panel-collapse collapse ">
+                                                        <div class="panel-body">
+                                                            <ul>
+                                                                <li>
+                                                                    <div class="title">                                                                   
+                                                                           <a href="https://docs.google.com/forms/d/e/1FAIpQLSchpnqQuRWPS8n88PjJedQsujU93SYLO2VOW8mxsHsIISVHvQ/viewform?pli=1" class="btn btn-warning text-white btn-sm"> Feedback Facility for Student and Faculty - Click Here  </a>																		  
+                                                                        </div>
+                                                                    </li></ul></div>
+                                                                                                                                
+                                                            
+                                                        </div>
+                                                </div>
+													
+													 <div class="panel panel-default">
+														<div class="panel-heading">
+															<h4 class="panel-title">
+																<a data-toggle="collapse" data-parent="#accordion" href="https://www.tgpcet.com/index.php#ac12">
+																	<strong class="number">12</strong> Audited Statement
+																</a>
+															</h4>
+														</div>
+														<div id="ac12" class="panel-collapse collapse">
+															<div class="panel-body">
+																<ul>
+																   <li>
+																		<div class="title">                                                                                                                                            
+																			<p> <a href="https://www.tgpcet.com/assets/Audited_statement/EN4151.pdf" target="_blank" class="btn btn-warning text-white btn-sm"> EN4151 </a> </p>
+																			<p> <a href="https://www.tgpcet.com/assets/Audited_statement/ME-4151.pdf" target="_blank" class="btn btn-warning text-white btn-sm"> ME-4151 </a> </p>
+																			<p> <a href="https://www.tgpcet.com/assets/Audited_statement/MB-4151.pdf" target="_blank" class="btn btn-warning text-white btn-sm"> MBA-4151 </a> </p>
+																			<p> <a href="https://www.tgpcet.com/assets/Audited_statement/MC-4151.pdf" target="_blank" class="btn btn-warning text-white btn-sm"> MCA-4151 </a> </p>
+																		</div>
+																	</li>                                                                
+																</ul>
+															</div>
+														</div>
+													</div>  
+													
+													
+													
+                                            </div>
+									</div>    
+					</div>
+                                        <!-- End Course List -->
+										
+                    
+                </div>
+            </div>
+    </div>
+    
+    <!-- End College Video & Important Links -->
+
+    <!-- Start College Information
+    ============================================= -->
+		 <div class="fun-factor-area default-padding text-center bg-fixed shadow dark-hard" style="background-image: url(assets/img/banner/4.jpg);">
+        <div class="container">
+            <div class="row">
+				<div class="col-md-2 col-sm-6 item">
+                    <div class="fun-fact">
+                        <div class="icon">
+                            <i class="fas fa-file-alt"></i>
+                        </div>
+                        <div class="info">                            
+							<span data-speed="5000" class="aplus"> Affiliation </span>
+                            <span class="medium">Approved by AICTE New Delhi, Recognized by Govt. of Maharashtra &amp; Affiliated to RTMNU</span>
+                        </div>
+                    </div>
+                </div>
+				
+               <div class="col-md-2 col-sm-6 item">				
+                    <div class="fun-fact">
+                        <div class="icon">
+                            <i class="fas fa-user-tie"></i>
+                        </div>
+                        <div class="info">
+                            <span data-speed="5000" class="aplus"> 50+</span>
+                            <span class="medium">Companies For Internship</span>
+                        </div>
+                    </div>
+                </div> 
+				
+                <!--<div class="col-md-2 col-sm-6 item">
+                    <div class="fun-fact">
+                        <div class="icon">
+                            <i class="fas fa-certificate"></i>
+                        </div>
+                        <div class="info">
+                            <span data-speed="5000" class="aplus"> A+</span>
+                            <span class="medium">Graded By NAAC</span>
+                        </div>
+                    </div>
+                </div> -->
+				
+                <div class="col-md-2 col-sm-6 item">
+                    <div class="fun-fact">
+                        <div class="icon">
+                            <i class="fas fa-users"></i>
+                        </div>
+                        <div class="info">
+                            <span class="timer" data-to="3394" data-speed="3500">3394</span>
+                            <span class="medium">Students Enrolled 2023-24</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-2 col-sm-6 item">
+                    <div class="fun-fact">
+                        <div class="icon">
+                            <i class="fas fa-briefcase"></i>
+                        </div>
+                        <div class="info">
+                            <span data-speed="5000" class="aplus"> 3500+</span>
+                            <span class="medium">Alumni Registrations</span>
+                        </div>
+                    </div>
+                </div>
+				<div class="col-md-2 col-sm-6 item">
+                    <div class="fun-fact">
+                        <div class="icon">
+                            <i class="fas fa-graduation-cap"></i>
+                        </div>
+                        <div class="info">
+                           <!-- <span class="timer" data-to="2100" data-speed="5000"></span>-->
+							<span data-speed="5000" class="aplus"> 2000+</span>
+                            <span class="medium">Placed Students </span>
+                        </div>
+                    </div>
+                </div>
+				
+            </div>
+        </div>
+    </div>  
+    <!-- End College Information -->
+
+    <!-- Start Testimonials 
+    ============================================= -->
+    <div class="testimonials-area carousel-shadow active-dots bg-gray default-padding bg-cover" style="background-image: url(assets/img/shape-bg.png);">
+        <div class="container">
+            <div class="row">
+                <div class="site-heading text-center">
+                    <div class="col-md-8 col-md-offset-2">
+                        <h2>What Students Says</h2>
+                        <!--<p>
+                            Discourse assurance estimable applauded to so. Him everything melancholy uncommonly but solicitude inhabiting projection off. Connection stimulated estimating excellence an to impression. 
+                        </p> -->
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="testimonial-items testimonial-carousel owl-carousel owl-theme text-center owl-loaded owl-drag">
+                        <!-- Single Item -->
+                        
+                        <!-- End Single Item -->
+                        <!-- Single Item -->
+                        
+                        <!-- End Single Item -->
+                        <!-- Single Item -->
+                        
+                        <!-- End Single Item -->
+                    <div class="owl-stage-outer"><div class="owl-stage" style="transform: translate3d(-2340px, 0px, 0px); transition: all 0.25s ease 0s; width: 4095px;"><div class="owl-item cloned" style="width: 555px; margin-right: 30px;"><div class="item">
+                            <div class="icon">
+                                <i class="fas fa-quote-left"></i>
+                            </div>
+                            <div class="content">
+                                <p>
+                                    The years spent here were splendid and has helped me to grow better professionally &amp; personally. I would like to thank all the faculties and staff for making me a “Better Person”.
+                                </p>
+                                <!-- <img src="assets/img/team/2.jpg" alt="Thumb"> -->
+                            </div>
+                            <div class="author">
+                                <h4>Nikhil Joshi</h4>
+                                <span> Computer Science &amp; Engineering </span>
+                            </div>
+                        </div></div><div class="owl-item cloned" style="width: 555px; margin-right: 30px;"><div class="item">
+                            <div class="icon">
+                                <i class="fas fa-quote-left"></i>
+                            </div>
+                            <div class="content">
+                                <p>
+                                    I can positively say TGPCET has helped me develop a positive attitude towards my studies and discover more about myself. Teachers are very caring and interested in students’ well-being. They make sure every class is educational and interactive.
+                                </p>          
+                                <!-- <img src="assets/img/team/3.jpg" alt="Thumb"> -->
+                            </div>
+                            <div class="author">
+                                <h4>Rupesh Badole  </h4>
+                                <span>Civil Engineering  </span>
+                            </div>
+                        </div></div><div class="owl-item" style="width: 555px; margin-right: 30px;"><div class="item">
+                            <div class="icon">
+                                <i class="fas fa-quote-left"></i>
+                            </div>
+                            <div class="content">
+                                <p>
+                                    It gives me great pleasure to say that I have completed my graduation from TGPCET. The relationship between faculties and student is very cordial, which gave me an opportunity to excel in my studies.
+                                </p>
+                                <!-- <img src="assets/img/team/1.jpg" alt="Thumb"> -->
+                            </div>
+                            <div class="author">
+                                <h4> Diksha Rahangdale </h4>
+                                <span> Electronics Engineering &amp; Electronics &amp; Communication Engineering  </span>
+                            </div>
+                        </div></div><div class="owl-item" style="width: 555px; margin-right: 30px;"><div class="item">
+                            <div class="icon">
+                                <i class="fas fa-quote-left"></i>
+                            </div>
+                            <div class="content">
+                                <p>
+                                    The years spent here were splendid and has helped me to grow better professionally &amp; personally. I would like to thank all the faculties and staff for making me a “Better Person”.
+                                </p>
+                                <!-- <img src="assets/img/team/2.jpg" alt="Thumb"> -->
+                            </div>
+                            <div class="author">
+                                <h4>Nikhil Joshi</h4>
+                                <span> Computer Science &amp; Engineering </span>
+                            </div>
+                        </div></div><div class="owl-item active" style="width: 555px; margin-right: 30px;"><div class="item">
+                            <div class="icon">
+                                <i class="fas fa-quote-left"></i>
+                            </div>
+                            <div class="content">
+                                <p>
+                                    I can positively say TGPCET has helped me develop a positive attitude towards my studies and discover more about myself. Teachers are very caring and interested in students’ well-being. They make sure every class is educational and interactive.
+                                </p>          
+                                <!-- <img src="assets/img/team/3.jpg" alt="Thumb"> -->
+                            </div>
+                            <div class="author">
+                                <h4>Rupesh Badole  </h4>
+                                <span>Civil Engineering  </span>
+                            </div>
+                        </div></div><div class="owl-item cloned active" style="width: 555px; margin-right: 30px;"><div class="item">
+                            <div class="icon">
+                                <i class="fas fa-quote-left"></i>
+                            </div>
+                            <div class="content">
+                                <p>
+                                    It gives me great pleasure to say that I have completed my graduation from TGPCET. The relationship between faculties and student is very cordial, which gave me an opportunity to excel in my studies.
+                                </p>
+                                <!-- <img src="assets/img/team/1.jpg" alt="Thumb"> -->
+                            </div>
+                            <div class="author">
+                                <h4> Diksha Rahangdale </h4>
+                                <span> Electronics Engineering &amp; Electronics &amp; Communication Engineering  </span>
+                            </div>
+                        </div></div><div class="owl-item cloned" style="width: 555px; margin-right: 30px;"><div class="item">
+                            <div class="icon">
+                                <i class="fas fa-quote-left"></i>
+                            </div>
+                            <div class="content">
+                                <p>
+                                    The years spent here were splendid and has helped me to grow better professionally &amp; personally. I would like to thank all the faculties and staff for making me a “Better Person”.
+                                </p>
+                                <!-- <img src="assets/img/team/2.jpg" alt="Thumb"> -->
+                            </div>
+                            <div class="author">
+                                <h4>Nikhil Joshi</h4>
+                                <span> Computer Science &amp; Engineering </span>
+                            </div>
+                        </div></div></div></div><div class="owl-nav disabled"><div class="owl-prev"><i class="fa fa-angle-left"></i></div><div class="owl-next"><i class="fa fa-angle-right"></i></div></div><div class="owl-dots"><div class="owl-dot"><span></span></div><div class="owl-dot active"><span></span></div></div></div> 
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- End Testimonials -->
+
+    
+
+    
+
+    <!-- Start Footer 
+    ============================================= -->
+    <footer class="bg-dark text-light">
+		 <div class="container">
+            <div class="f-items default-padding">
+                <div class="row">
+                    <!-- Single item -->
+                    <div class="col-md-3 col-sm-6 item equal-height" style="height: 359px;">
+                        <div class="f-item about">
+                            <h4>Quick Contact </h4>
+                            <p>
+                                Tulsiramji Gaikwad-Patil College of Engineering and Technology.
+								Mohagaon, Wardha Road,
+								Nagpur, 441108 Maharashtra,
+								INDIA.
+                            </p>
+                            <ul>
+                                <li>
+                                    <p>Email <span><a href="https://www.tgpcet.com/index.php#">principal@tgpcet.com</a></span></p>
+                                </li>
+                                <li>
+                                    <p>Contact <span>+91 - 9922966176</span></p>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                    <!-- End Single item -->
+
+                    <!-- Single item -->
+                    <div class="col-md-3 col-sm-6 item equal-height" style="height: 359px;">
+                        <div class="f-item link">
+                            <h4>Quick Links</h4>
+                            <ul>
+                                <li>
+                                    <a href="https://www.tgpcet.com/Approvals.php"><i class="ti-angle-right"></i> Approvals  </a>
+                                </li>
+                                <li>
+                                    <a href="https://www.tgpcet.com/Our-Inspiration.php"><i class="ti-angle-right"></i> Our Inspiration </a>
+                                </li>
+								<li>
+                                    <a href="https://www.tgpcet.com/assets/Magazine-2022-23/index.html" target="_blank"><i class="ti-angle-right"></i> College Magazine 22-23 </a>
+                                </li>
+                                <li>
+                                    <a href="https://www.tgpcet.com/assets/Magazine-2021-22/index.html" target="_blank"><i class="ti-angle-right"></i> College Magazine 21-22 </a>
+                                </li>
+                                <li>
+                                    <a href="https://www.tgpcet.com/location_map.php"><i class="ti-angle-right"></i> Location Map</a>
+                                </li>
+								<li>
+                                    <a href="https://www.tgpcet.com/assets/PDF/Holiday-2024.pdf"><i class="ti-angle-right"></i> Holidays 2024</a>
+                                </li> 
+								<li>
+                                    <a href="https://www.tgpcet.com/AIC.php"><i class="ti-angle-right"></i> AIC </a>
+                                </li>
+                                
+                            </ul>
+                        </div>
+                    </div>
+                    <!-- End Single item -->
+
+                    <!-- Single item -->
+                    <div class="col-md-3 col-sm-6 item equal-height" style="height: 359px;">
+                        <div class="f-item link">
+                            <h4>Quick Links</h4>
+                            <ul>
+								<li>                                    
+									<a href="https://www.tgpcet.com/media.php"><i class="ti-angle-right"></i>Media </a> 
+                                </li>
+								<li>
+                                    <a href="https://www.tgpcet.com/OBE.php"> <i class="ti-angle-right"></i> OBE </a>
+                                </li>
+								
+								<li>
+                                    <a href="https://www.tgpcet.com/Committees.php"> <i class="ti-angle-right"></i> Committee </a>
+                                </li>
+								
+							   <li>
+                                    <a href="http://techchronicle.in/" target="_blank"><i class="ti-angle-right"></i> Tech-Chronicle</a>
+                                </li>
+                                <!--<li>
+                                    <a href="assets/img/Award-Honors/AwardHrs-16.pdf" target="_blank"><i class="ti-angle-right"></i> Awards & Honors</a>
+                                </li>-->
+                                <li>
+                                    <a href="https://www.antiragging.in/" target="_blank"><i class="ti-angle-right"></i> Anti-Ragging Undertaking </a>
+                                </li>
+								<li>
+                                    <a href="https://www.tgpcet.com/assets/Non-Teaching-List.pdf" target="_blank"><i class="ti-angle-right"></i> Non-Teaching Staff </a>
+                                </li>
+                                <!--<li>
+                                    <a href="http://www.erp.tgpcet.com/"  target="_blank"><i class="ti-angle-right"></i> SACKINFO APP </a>
+                                </li>							
+                                <li>
+                                    <a href="http://43.248.72.67:8181/"  target="_blank"><i class="ti-angle-right"></i> Self Learning Portal </a>
+                                </li> -->
+                            </ul>
+                        </div>
+                    </div>
+                    <!-- End Single item -->
+					
+					<!-- Single item -->
+                    <div class="col-md-3 col-sm-6 item equal-height" style="height: 292px;">
+                        <div class="f-item link">
+                            <h4>Quick Links</h4>
+                            <ul>
+                                
+								<li>
+                                    <a href="https://www.tgpcet.com/assets/PDF/Campus_Master_Plan.pdf"><i class="ti-angle-right"></i> Institute Map (Campus Plan) </a>
+                                </li>
+								
+								<li>
+                                    <a href="https://www.tgpcet.com/assets/Procurement_Policy/Procurement_Policy.pdf" target="_blank"> <i class="ti-angle-right"></i> Procurement Policy </a>
+                                </li>
+								
+								<!--<li>
+                                    <a href="Student-Support-System.php"\><i class="ti-angle-right"></i> Student Support System </a>
+                                </li> -->
+                                <!--<li>
+                                    <a href="assets/DVV-Clarification/code-of-ethics/code-of-ethics.pdf" target="_blank"><i class="ti-angle-right"></i> Code of Ethics </a>
+                                </li>-->
+                                <li>
+                                    <a href="https://www.tgpcet.com/assets/PDF/Infrastructure-Maintenance-Policy-2019-20.pdf" target="_blank"><i class="ti-angle-right"></i> Infrastructure Maintenance Policy Document - 2019-20 </a>
+                                </li>
+								<!--<li>
+                                    <a href="NISP.php"><i class="ti-angle-right"></i> NISP </a>
+                                </li> -->
+								<li>
+                                    <a href="https://www.tgpcet.com/contact-us.php"><i class="ti-angle-right"></i> Contact us</a>
+                                </li>
+								<li>
+                                      <!-- hitwebcounter Code START -->
+
+<img src="./TGPCET_files/counter.php" title="Free Counter" alt="web counter" border="0">
+                                </li>
+
+                            </ul>
+                        </div>
+                    </div>
+                    <!-- End Single item -->
+
+                    <!-- Single item -->
+                    <!--<div class="col-md-4 col-sm-6 item equal-height">
+                        <div class="f-item popular-courses">
+                            <h4>Popular Courses</h4>
+                            <ul>
+                                <li>
+                                    <div class="thumb">
+                                        <a href="#">
+                                            <img src="assets/img/gallery/1.jpg" alt="Thumb">
+                                        </a>
+                                    </div>
+                                    <div class="info">
+                                        <a href="#">Subjects allied to Creative arts and design</a>
+                                        <ul class="meta">
+                                            <li>
+                                                <i class="fas fa-star"></i>
+                                                <i class="fas fa-star"></i>
+                                                <i class="fas fa-star"></i>
+                                                <i class="fas fa-star"></i>
+                                                <i class="fas fa-star-half-alt"></i>
+                                            </li>
+                                            <li>(128) enrolled</li>
+                                        </ul>
+                                    </div>
+                                </li>
+                                <li>
+                                    <div class="thumb">
+                                        <a href="#">
+                                            <img src="assets/img/gallery/3.jpg" alt="Thumb">
+                                        </a>
+                                    </div>
+                                    <div class="info">
+                                        <a href="#">Business and administrative subjects</a>
+                                        <ul class="meta">
+                                            <li>
+                                                <i class="fas fa-star"></i>
+                                                <i class="fas fa-star"></i>
+                                                <i class="fas fa-star"></i>
+                                                <i class="fas fa-star"></i>
+                                                <i class="fas fa-star"></i>
+                                            </li>
+                                            <li>(98) enrolled</li>
+                                        </ul>
+                                    </div>
+                                </li>
+                                <li>
+                                    <div class="thumb">
+                                        <a href="#">
+                                            <img src="assets/img/gallery/4.jpg" alt="Thumb">
+                                        </a>
+                                    </div>
+                                    <div class="info">
+                                        <a href="#">Business and administrative subjects</a>
+                                        <ul class="meta">
+                                            <li>
+                                                <i class="fas fa-star"></i>
+                                                <i class="fas fa-star"></i>
+                                                <i class="fas fa-star"></i>
+                                                <i class="fas fa-star"></i>
+                                                <i class="fas fa-star-half-alt"></i>
+                                            </li>
+                                            <li>(688) enrolled</li>
+                                        </ul>
+                                    </div>
+                                </li>
+                            </ul>
+                        </div>
+                    </div> -->
+                    <!-- End Single item -->
+                </div>
+            </div>
+        </div>
+        <!-- Start Footer Bottom -->
+        <div class="footer-bottom">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-6 d-none">
+                        <p>All Rights Reserved. Developed by <a href="https://www.tgpcet.com/index.php#"> GPG Infotech </a></p>
+                    </div>
+                    <div class="col-md-6 text-right link">
+                        <!--<ul>
+                            <li>
+                                <a href="#">Terms of user</a>
+                            </li>
+                            <li>
+                                <a href="#">License</a>
+                            </li>
+                            <li>
+                                <a href="#">Support</a>
+                            </li>
+                        </ul> -->
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- End Footer Bottom -->
+		
+		   
+    </footer>
+    <!-- End Footer -->
+
+    <!-- Start Link jQuery Frameworks
+    ============================================= -->
+    <script src="./TGPCET_files/jquery-1.12.4.min.js.download"></script>
+    <script src="./TGPCET_files/bootstrap.min.js.download"></script>
+    <script src="./TGPCET_files/equal-height.min.js.download"></script>
+    <script src="./TGPCET_files/jquery.appear.js.download"></script>
+    <script src="./TGPCET_files/jquery.easing.min.js.download"></script>
+    <script src="./TGPCET_files/jquery.magnific-popup.min.js.download"></script>
+    <script src="./TGPCET_files/modernizr.custom.13711.js.download"></script>
+    <script src="./TGPCET_files/owl.carousel.min.js.download"></script>
+    <script src="./TGPCET_files/wow.min.js.download"></script>
+    <script src="./TGPCET_files/progress-bar.min.js.download"></script>
+    <script src="./TGPCET_files/isotope.pkgd.min.js.download"></script>
+    <script src="./TGPCET_files/imagesloaded.pkgd.min.js.download"></script>
+    <script src="./TGPCET_files/count-to.js.download"></script>
+    <script src="./TGPCET_files/YTPlayer.min.js.download"></script>
+    <script src="./TGPCET_files/loopcounter.js.download"></script>
+    <script src="./TGPCET_files/jquery.nice-select.min.js.download"></script>
+    <script src="./TGPCET_files/bootsnav.js.download"></script>
+    <script src="./TGPCET_files/main.js.download"></script>   	
+	<!-- end Link jQuery Frameworks
+    ============================================= -->
+	
+	   <script type="text/javascript" src="./TGPCET_files/jquery.fancybox.js.download"></script>
+
+ <script type="text/javascript">
+		$(document).ready(function() {
+		//$.fancybox.open('source/NAAC-FLAYER.jpg');
+		$.fancybox.open('source/BTech_AIML.jpeg');
+		});	
+</script>   
+
+
+
+</div></body></html>
